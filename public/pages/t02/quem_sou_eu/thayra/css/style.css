@@ -1,0 +1,43 @@
+h1 {
+  color:purple;
+}
+
+b{
+  color:red;
+}
+
+h2{
+  color:purple;
+}
+
+imagem{
+  border:100px solid blue;
+  padding:20px;
+  margin:30px;
+ 
+}
+#hobbies{
+  
+}
+body{
+    background-image: url("https://lh6.googleusercontent.com/-xc8-5US6Xb4/UcR1qRl7gnI/AAAAAAAAcUI/QBBjNcXy0jM/s0-d/wrinkle%2Bdogs.jpg");
+  background-repeat:no repeat;
+  background-size:cover;
+  background-position:center;
+  font-family: 'Mali', cursive;
+}
+
+.tabela{
+  background-color: pourple;
+}
+
+tr {
+  text-align:center;
+}
+  table, tr, th, td {
+    border: 1px solid black;
+}
+
+th, td{
+  
+}

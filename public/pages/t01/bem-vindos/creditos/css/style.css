@@ -1,0 +1,66 @@
+body{
+ font-family:PT Sans Narrow;
+ background-image:
+   url("https://i.pinimg.com/originals/62/e4/46/62e446dea1c9d822d90ece6afe064e28.jpg")
+}
+h1{
+  font-family:merienda;
+  text-align:center;
+}
+#ne {
+  color:blue;
+ 
+}
+.tw {
+  color:white;
+  background-color:black;
+  font-size: 18px;
+    text-align:center;
+}
+.prof{
+  color:white;
+  background-color:black;
+  font-size: 18px;
+  text-align:center;
+}
+.fs{
+  color:white;
+  background-color:black;
+  text-align:center;
+  font-size: 18px;
+}
+.puc{
+  color:white;
+  background-color:black;
+  text-align:center;
+  font-size: 18px;
+}
+.al{
+  color:white;
+  background-color:black;
+  text-align:center;
+  font-size: 18px;
+}
+.ex{
+  text-align:center;
+  
+}
+.int{
+  display: inline-block;
+  text-align: justify;
+    width:800px;
+  background-color:white;
+  border:3px solid black;
+}
+h2{
+  text-align:center;
+  color:black
+}
+ul {
+  color:black;
+}
+p{
+  color:black;
+  text-align:center
+    
+}

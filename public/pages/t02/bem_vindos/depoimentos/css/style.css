@@ -1,0 +1,22 @@
+h1{
+ font-family: 'Righteous', cursive;
+ color: #685de2;
+ font-size: 50px;  
+ text-align: center;
+}
+b{
+ font-family: 'Righteous', cursive;
+  color: #685de2;
+  font-size: 35px;
+}
+h2{
+  font-family: 'Rokkitt', serif;
+  font-size: 30px;
+}
+p{
+  font-size: 25px;
+  font-family: 'Rokkitt', serif;
+}
+.h{
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+h1{
+  color: green
+}
+  #texto{
+ background-color: pink;
+}
+
+   #texto{  
+    background-color: pink; 
+    padding:10px 200px;
+     margin: 54px;
+     border:6px dashed purple;
+     border-radius: 23px;   
+     
+     background-image: url(https://static.wixstatic.com/media/32df7f_006c035ee97b41a8a4aaa6d814af0073.jpg/v1/fill/w_313,h_173,al_c,q_80,usm_0.66_1.00_0.01/32df7f_006c035ee97b41a8a4aaa6d814af0073.webp)
+}
+
+table td{
+  border: 10px
+  solid purple;
+  border- spacing: 0;
+  margin: 10;
+  text-align: center;
+}

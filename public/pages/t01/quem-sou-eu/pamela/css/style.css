@@ -1,0 +1,85 @@
+h1{
+  color:#800000;
+} 
+
+h2{
+  color:#D2A6C7;
+}
+                                          
+h5{
+  color:#0000FF;
+}
+h2{
+  text-decoration:underline overline;
+  /*line-through;*/
+}
+
+P{
+  font-size:20px;
+  font-style:italic;
+  font-weight:bold;
+  text-aligh:justify
+}
+    body{
+     /* background-color:#FFF99D;*/
+      background-image:
+       url(http://imagesvc.timeincapp.com/v3/foundry/image/?q=70&w=1440&url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2017%2F08%2Fveneno-2.jpg%3Fquality%3D85);
+      font-family:Gaegu;
+  }
+
+div{
+  background-color:white;
+  padding: 10px 20px 50px 5px; 
+ /* padding-left:200px;*/
+  margin:5% 10% 2% 5%;
+  border:5px double #800000;
+} 
+#texto{
+  background-color:white;
+  widht;100px;
+}
+
+.lista{
+  background-color:#808080;
+}
+
+ .lista ol li{
+  font-family:verdana;
+}
+
+a{
+  font-size:40px;
+}
+
+a:houver {
+color:#9781B7;
+}
+
+table td{ 
+  border-spacing:0;
+  border: 5px solid #00AEED;
+  text-align:center;
+  font-size: 15px;
+  font-family:Open Sans;
+  background-color:white;
+}
+
+.cabecalho{
+  font-weight:bold;
+}
+
+.imagem {
+  float:center;
+  padding:10px;
+}
+
+
+ 
+
+  
+ 
+  
+
+
+
+   

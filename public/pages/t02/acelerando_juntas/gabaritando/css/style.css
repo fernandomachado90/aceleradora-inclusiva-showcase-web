@@ -1,0 +1,23 @@
+header{
+ background-image:url(http://backgroundcheckall.com/wp-content/uploads/2017/12/ppt-background-school-10.jpg?fbclid=IwAR0cAxQU5dXcZ-4hw2rtXMweGCc9pn5xw_3bX0dxs6xL1COhtuZuk3tXc84); 
+  font-family: "Merriweather"
+}
+h1{
+  Color: purple;
+  Text-align: center;
+}
+h2{
+  color:orange;
+  text-align: center; 
+} 
+p{
+  font-size:20px
+}    
+{
+  font-weight:bold;
+  color:black;
+}
+background-image:url("https://st3.depositphotos.com/15213504/19476/v/1600/depositphotos_194766912-stock-illustration-beautiful-vector-background-for-a.jpg");
+p{
+  font-size:20px;
+}

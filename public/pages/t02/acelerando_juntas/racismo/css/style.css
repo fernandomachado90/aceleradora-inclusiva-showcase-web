@@ -1,0 +1,50 @@
+h1{
+  font-family: 'Lobster', cursive;
+font-size: 60px;
+  text-align: center;
+  color: black;
+}
+
+img{
+  width:350px;
+}
+
+#livro {
+  margin-left: 35%;
+}
+body{
+  background-image:url("https://i.pinimg.com/564x/02/06/c1/0206c18fa9b32ef8db53115bc0087443.jpg");
+}
+h2{
+    font-family: 'Lobster', cursive;
+font-size: 60px;
+  text-align: center;
+  color:black;
+}
+p{
+ font-family: 'Pacifico', cursive;
+font-size: 25px;
+  text-align: center;
+  color:black;
+}
+h3{
+  font-family: 'Lobster', cursive;
+font-size: 60px;
+  text-align: center;
+  color:black;
+}
+a{
+ font-family: 'Pacifico', cursive;
+font-size: 50px;
+  text-align: center;
+  color:black;
+
+
+
+
+}
+iframe{
+  margin-left: 29%;
+ 
+  border:5px dashed black;
+}

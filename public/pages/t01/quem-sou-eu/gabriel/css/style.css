@@ -1,0 +1,62 @@
+body{
+  background-color: white;
+  color:#FFFF00;
+    font-family:Bangers;
+  margin: 0px;
+    background-image:url("http://pbs.twimg.com/media/CfthDIJW8AEtifT.jpg");
+  
+}
+h1{
+  color:#FFFF00
+}
+h2{
+  text-decoration:underline, line-through
+}
+p{
+  font-size:20px;
+  font-family:Bangers;
+  font-weihg:bold;
+  text-align:   
+}
+div{
+  background:red;
+  border:2px dashed red;
+  margin: 50px;
+ 
+  /*padding:10px*/
+}
+.lista{
+  background-color:white;
+}
+img{
+  padding-left:50px
+}
+.litrao{
+  background-color:with;
+ }
+a: houver{
+  color:white
+}
+.colorado{
+  background-image:url("http://www.internacional.com.br/imagens/noticias/galeria_031208_19.jpg");
+    background-size:cover;
+  background-position:bottom;
+  margin: 0;
+}
+table, td, caption{
+ 
+  border-spacing: 0px;
+  text-align: center;
+  font-size:14px;
+  font-family:open sans;
+}
+table{
+   border: 1px solid white;
+}
+td{
+  border-right:1px solid white;
+  border-bottom:1px solid white;
+}
+
+   
+

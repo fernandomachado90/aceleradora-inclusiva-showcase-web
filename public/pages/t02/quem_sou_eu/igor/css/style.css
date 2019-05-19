@@ -1,0 +1,26 @@
+h1 {
+  color: Black;
+  font-family: 'Oswald', sans-serif;
+}
+#Biografia h2{
+  color: #1565c0;
+  font-family: 'Oswald', sans-serif;
+}
+#Interesses h2{
+  color: #ffa726;
+  font-family: 'Oswald', sans-serif;
+}
+#Contato h2{
+  color: Green;
+}
+#teste {
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVn-szQgz4OIa_f3n9ORGY6lJfYU_0O4evBOYZV_cYbqzpMKplQ");
+background-repeat: no-repeat; 
+background-position:center;
+background-size: cover;
+border:0px;  
+margin:0px;  
+width:1500px;
+height:1000px;
+}  
+

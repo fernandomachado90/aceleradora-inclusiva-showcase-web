@@ -1,0 +1,22 @@
+body {
+	background-color: #abe6ea;
+}
+
+h1{
+  color: #CC0974;
+  font-size: 35px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  color:black ;
+  font-family: 'Montserrat', sans-serif;
+}
+li{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+table, tr, th, td{
+  font-family: 'Montserrat', sans-serif;
+  border: 2px solid #CC0974;
+}

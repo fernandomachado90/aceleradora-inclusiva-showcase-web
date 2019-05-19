@@ -1,11 +1,20 @@
 {
-  "name": "hp-chars",
+  "name": "aceleradora-showcase-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "directory-tree": "^2.2.2",
+    "express": "^4.17.0",
+    "express-favicon": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "node": "^12.1.0",
+    "path": "^0.12.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-modal": "^3.8.1",
+    "react-scripts": "3.0.0",
+    "webpack": "^4.30.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,0 +1,25 @@
+body {
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReH0e6ddSoCgJ-NcfVFwbewecQLyHwMUuHrjP4SOpI3tSZaBBJ5Q)
+
+}
+h1 {
+  color:black;
+  font-family: 'Pacifico', cursive;
+  background-color:white;
+
+}
+p {
+  color:Green;
+  font-family: 'Pacifico', cursive;
+  font-size:40px;
+  background-color:white;
+
+}
+
+li {
+  color:Green; 
+    font-family: 'Pacifico', cursive;
+  font-size:20px;
+    background-color:white;
+}
+  

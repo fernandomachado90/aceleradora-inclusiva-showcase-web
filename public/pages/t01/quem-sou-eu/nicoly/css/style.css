@@ -1,0 +1,52 @@
+h1 {
+   color:#ff4dff;
+}
+body{
+  background-image: url("https://www.papeiseparede.com.br/2991-large_default/papel-de-parede-unicornio-branco-com-fundo-roxo.jpg");
+  
+}
+u{
+   font-family:calibri;
+}
+h3{
+ font-family:calibri; 
+}
+h1{
+  font-family:harlow solid;
+}
+div{
+  background-color:#d9b3ff;
+}
+.lista{
+  background-color:#80ffff;
+  padding:20px;
+}
+.imagens{
+  background-color: #00ffff;
+   padding:30px;
+}
+.sobremim{
+  background-color: #ccffff;
+  padding:20px;
+}
+.tudo{
+  margin:30px;
+  border:3px dotted black;
+}
+table td{
+  color: #000000;
+  background-color:#A9F5F2;
+  border: 3px dotted black;
+  font-size: 30px;
+  font-family: harlow solid;
+}
+.rotina{
+  background-color: #A9F5F2;
+}
+  .imagem2 {
+  float: right;
+    width: 335px;
+}
+.imagem22 {
+  float: right;
+    width: 450px;

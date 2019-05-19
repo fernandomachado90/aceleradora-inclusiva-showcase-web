@@ -1,26 +1,46 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import './App.css';
+import json from './pages.json';
+
+const Group = ({name, path, projects}) => (
+  <div>
+    <h1>{name}</h1>
+    {projects.map((project, index) => (
+      <Project key={index} currentPath={path} {...project} />
+    ))}
+  </div>
+)
+
+const Project = ({name, currentPath, path, description, picture, pages}) => (
+  <div>
+    <h2>{name}</h2>
+    <img src={picture} width="200px" />
+    <p>{description}</p>
+    <ul>
+    {pages.map((page, index) => (
+      <Page key={index} currentPath={currentPath +'/'+ path} {...page} />
+    ))}
+    </ul>
+  </div>
+)
+
+const Page = ({name, currentPath, path}) => (
+  <li>
+    <a href={'pages/' + currentPath +'/'+ path + '/index.html'}>{name}</a>
+  </li>
+)
+
+class App extends React.Component {
+  render() {
+    return (
+        <div className="App">
+          {json.map( (group, index) => (
+            <Group key={index} {...group} />
+          ))}
+        </div>
+    );
+  }
 }
 
 export default App;
