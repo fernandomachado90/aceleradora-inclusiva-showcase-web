@@ -1,0 +1,30 @@
+body{
+  background-image:
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxApY4OYX0rcWPPfa8N2o3SRT5ripbawywh4GbOqcFSBc10e9);
+ color:white;
+  font-family: 'Merienda One', cursive;
+  position:relative;
+  text-align:center;
+  
+}
+li{
+  list-style-type:none;
+}
+
+}
+h1,{
+  background-color:black;
+  font-family:'Merienda', cursive;
+  
+}
+h2{
+  font-family:'Merienda', cursive;
+  font-size:35px;
+  text-align:center;
+}
+div{
+  background-color:black;
+  padding:10px 20px 50px 5px;
+  margin:5% 10% 2% 5%;
+  border:5px double #800000;
+}

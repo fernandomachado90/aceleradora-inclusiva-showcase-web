@@ -1,0 +1,40 @@
+.headerPage{
+  background: black;
+  color:white;
+  text-align:center;
+  font-size:50px;
+}
+body{
+  font-family:'Mali', cursive;
+}
+.cotas{
+  float: left;
+  height:300px;
+  text-align:center;
+  margin-right:25px;
+  display:block;
+ 
+}
+h1{
+  text-align:center;
+}
+img{
+  height:300px;
+}
+.formatura{
+  float:right;
+  margin-top: 25px;
+}
+.oqachamos{
+  display:block;
+  border-top:50px solid black;
+  
+}
+.cotasDiv{
+  display:block;
+   margin-bottom:150px;
+  
+}
+.texto{
+  display
+}

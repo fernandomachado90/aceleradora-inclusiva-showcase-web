@@ -1,0 +1,33 @@
+body{
+  background-image:
+    url(https://juegosrev.com/wp-content/uploads/2017/06/Wallpapers-Tech-Gallery-73-Plus-PIC-WPW3010899.jpg?w=343&h=193);
+}
+.conteudo{
+  background-color:white;
+
+  border:5px double blue
+}
+h1{
+  background-color:black;
+  color:white;
+  font-family:merienda;
+}
+h2{
+  font-family:PT Sans Narrow;
+}
+li{
+  font-family:Hind;
+}
+img{
+  display:block;
+  border: 4px double blue;
+  margin: auto;
+}
+.ex{
+  text-align:center;
+}
+.int{
+  display:inline-block;
+  text-align:justify;
+  width:800px;
+}

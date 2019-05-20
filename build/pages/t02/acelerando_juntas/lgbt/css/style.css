@@ -1,0 +1,50 @@
+header{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Jewish_Autonomous_Oblast_%281996-07%29.svg/2000px-Flag_of_the_Jewish_Autonomous_Oblast_%281996-07%29.svg.png");
+  background-size: 1000px;
+  background-position: center;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+  font-size:80px;
+}
+h2,h3
+{
+  font-family: 'Patrick Hand SC', cursive;
+}
+h2{
+  font-size:60px;
+  color: white;
+  text-align: center;
+}
+h3{
+  font-size:50px;
+  text-align: center;
+}
+body{
+  font-size: 30px;
+} 
+
+p
+{
+  font-family: 'Patrick Hand', cursive;
+}
+
+.lgbt{
+  float:left;
+  margin-right:20px;
+}
+.texto-lgbt
+
+{
+  display:inline;
+}
+
+.frase{
+  height:500px;
+  
+}
+.divFrase{
+  text-align:center;
+}

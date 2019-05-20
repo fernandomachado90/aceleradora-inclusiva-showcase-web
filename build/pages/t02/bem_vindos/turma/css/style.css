@@ -1,0 +1,31 @@
+body{
+   background-image:url("https://images5.alphacoders.com/380/380567.png");
+  font-family: 'Acme', sans-serif;
+}
+h1{
+  font-family: 'acme', sans-serif;
+  text-align: center;
+}
+li{
+  font-size: 20px;
+}
+div{
+  background-color: white ;
+  margin-bottom:50px;
+  padding:8px ;
+}
+
+*{
+  margin: 0 ;
+}
+.foto{
+  float:right;
+  width:500px;
+  margin-right:300px;
+  border: 8px double white;
+}
+.rodape{
+  text-align: right;
+  display: inline-block;
+  float: right;
+}

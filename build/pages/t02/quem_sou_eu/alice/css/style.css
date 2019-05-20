@@ -1,0 +1,71 @@
+h1{
+  font-size: 100px;
+  color: #d787dd;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+
+
+img{
+  widht: 600px;
+    height: 500px;
+}
+li{
+  color: black;
+}
+
+header{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/236x/c9/08/94/c908946cac68b14442f72d979494d3dc.jpg");
+  
+  
+  height: 1400px;
+  width: 1800px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+}
+li{
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+}
+b{
+  color: black;
+}
+.sla{
+  font-size: 30px;
+  color: ;
+}
+#pagina{
+background-image: https://st2.depositphotos.com/1355244/11361/v/950/depositphotos_113611690-stock-illustration-seamless-background-with-cute-doodle.jpg
+}
+img{
+  width: 300px;
+   height: 300px;
+}
+tr{
+  text-align: center;
+}
+.table, tr, th, td{
+  border: 1px solid black;
+}
+th, td{
+  padding: 10px;
+}
+.tabela{
+  margin-left: auto;
+  margin-right: auto;
+}
+.table, td{
+  background-color: #d787dd;
+  border-color: transparent;
+  margin-right: auto;
+}
+.imge{
+width: 400px;
+  height: 350px;
+}

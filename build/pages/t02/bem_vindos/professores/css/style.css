@@ -1,0 +1,30 @@
+header{
+ text-align: center;
+}
+.imagemAc{
+  height: 300px;
+}
+body{
+  font-size: 30px;
+  font-family: 'Patrick Hand', cursive;
+  background-image: url(https://i-h1.pinimg.com/564x/c8/2b/b9/c82bb9647b53fddd185e1efbbf43af32.jpg);
+  font-size: 40px;
+}
+.lista1{
+  float: left;
+  margin-left: 400px;
+}
+.lista2{
+  float: right;
+  margin-right: 400px;
+}
+.imagemTW{
+  height:400px;
+}
+h2{
+  text-align: center;
+}
+.agradecimento{
+  text-align: center;
+  font-size: 50px;
+}

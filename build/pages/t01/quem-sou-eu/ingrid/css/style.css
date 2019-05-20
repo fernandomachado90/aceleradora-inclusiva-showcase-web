@@ -1,0 +1,46 @@
+#menu {
+  /*espaços elementos*/
+  background-color:pink;  
+  width : ;
+  padding: 20px 30px 20px 30px;
+/*radius muda a margem da borda*/
+  border-radius:50px;
+  border:dashed
+}
+body{
+  font-family: Eagle Lake;
+}
+
+h1 {
+  color: rgba(24, 0, 0, 0.3); 
+}
+h2{
+ text-decoration: underline overline; 
+}
+p {
+  font-size: 15px ; 
+  font-style: italic;
+  font-weight: light;
+  text-align: right;
+}
+.fundo {
+   border:5px solid pink; 
+   background-image: url("https://image.freepik.com/vetores-gratis/unicornios-bonitos-com-arco-iris-padrao_23-2147550283.jpg");
+}
+a:hover {
+/*cor do link quando colocar o mouse sobre o mesmo*/
+  color:black;
+}
+.imagem{
+  float: right
+}
+table, td{
+  border-color: #e6d2f7;
+  border-spacing: 0;
+}
+.one {
+  float:left;
+}
+.two {
+  float: right;
+}
