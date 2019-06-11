@@ -99,7 +99,7 @@ const Header = () => {
       <Typography variant="body1" color="textSecondary"> 
         A <b>Aceleradora Inclusiva</b> é um projeto de educação inclusiva fruto de uma parceria entre <b>ThoughtWorks</b>, <b>PUCRS</b> e 
         o <b>Centro de Inovação da Microsoft</b>, com o objetivo de facilitar o acesso de pessoas em 
-        situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de lógica de programação.
+        situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de <b>lógica de programação</b>.
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 

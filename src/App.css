@@ -4,7 +4,11 @@
 }
 
 .Header, .Main {
-  margin: 0 100px;
+  margin: 0px 100px;
+}
+
+.Main {
+  margin-bottom: 48px;
 }
 
 .Main .Title {
@@ -26,9 +30,9 @@
   position: fixed;
   bottom: 0px;
   width: 100%;
-  display: flex;                  
+  display: flex;               
   justify-content: space-between;
-  padding: 8px 24px;
+  padding: 2px 14px;
   background-color: #26BDCF;
 }
 
@@ -43,7 +47,7 @@
 }
 
 .Footer .FavoriteIcon:hover {
-  color: red;
+  color: #EF5BA1;
 }
 
 .ProjectCard {
