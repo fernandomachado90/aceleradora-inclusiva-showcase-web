@@ -42,7 +42,6 @@
 
 .Footer a {
   color: white;
-  font-weight: bold;
 }
 
 .Footer .FavoriteIcon {
@@ -55,26 +54,33 @@
 }
 
 .GroupPanel {
-  /* pattern created on patternify.com */
+  /* created on http://www.patternify.com */
   background:url(
     data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVQYV2N8//59AwMOwAiSFBQUxKpg0EkCANJJG1UAh5gpAAAAAElFTkSuQmCC    
   ) repeat;
 }
 
 .GroupPanel .Title {
-  font-weight: 400;
+  font-weight: 700;
   color: #26BDCF;
+}
+
+.GroupPanel .GroupPanelDetails {
+  /* reference https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
 }
 
 .ProjectCard {
   width: 200px;
-  min-width: 200px;
-  height: 100%;
-  margin: 0 auto;
+  margin: 14px;
 }
 
 .ProjectCard .Title {
-  font-weight: 700;
+  font-weight: 400;
   color: #EF5BA1;
 }
 
@@ -99,5 +105,4 @@
 .ProjectCard a:hover {
   background-color: #EF5BA1;
 }
-
 

@@ -53,10 +53,10 @@ const GroupPanel = ({name, path, projects}) => (
         {name}
       </Typography>
     </ExpansionPanelSummary>
-    <ExpansionPanelDetails>
-    {projects.map((project, index) => (
-      <ProjectCard key={index} currentPath={path} {...project} />
-    ))}
+    <ExpansionPanelDetails className="GroupPanelDetails">
+      {projects.map((project, index) => (
+        <ProjectCard key={index} currentPath={path} {...project} />
+      ))}
     </ExpansionPanelDetails>
   </ExpansionPanel>
 )
