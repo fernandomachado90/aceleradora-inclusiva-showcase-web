@@ -12,7 +12,7 @@ Este diretório contém os arquivos estáticos que serão acessados pela aplica�
 
 ### src
 
-O arquivo `pages.json` deve refletir a estrutura contida em `public/pages`, além de dados como título, descrição e imagem de exibição.
+O arquivo `pages.json` deve refletir a estrutura de pastas contida em `public/pages`, além de dados como título, descrição e imagem de exibição de cada projeto.
 
 # Create React App
 
