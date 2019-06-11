@@ -47,9 +47,8 @@ const GroupPanel = ({name, path, projects}) => (
   <ExpansionPanel className="GroupPanel">
     <ExpansionPanelSummary
       expandIcon={<ExpandMoreIcon />}
-      aria-controls="panel1a-content"
-      id="panel1a-header"
-    >
+      aria-controls={"panel-"+name+"-content"}
+      id={"panel-"+name+"-header"}>
       <Typography variant="h5" className="Title"> 
         {name}
       </Typography>
@@ -65,14 +64,14 @@ const GroupPanel = ({name, path, projects}) => (
 const ProjectCard = ({name, currentPath, path, description, picture, pages}) => (
   <Card className="ProjectCard">
     <CardMedia image={picture} title={name} component="img" />
-    <CardContent>
+    <CardContent className="CardContent">
       <Typography variant="h5" className="Title" gutterBottom> 
         {name}
       </Typography>
       <Typography color="textSecondary" gutterBottom>
         {description}
       </Typography>
-      <List component="nav">          
+      <List dense={true}>          
         {pages.map((page, index) => (
           <ProjectLink key={index} currentPath={currentPath +'/'+ path} {...page} />
         ))}
@@ -87,7 +86,7 @@ const ListItemLink = (props) => {
 
 const ProjectLink = ({name, currentPath, path}) => (
   <ListItemLink href={'pages/' + currentPath +'/'+ path + '/index.html'}>
-    <ListItemText primary={name} />
+    <ListItemText className="Title" primary={name} />
   </ListItemLink>
 )
 

@@ -18,7 +18,7 @@
 
 .Header p {
   text-align: justify;
-  margin: 14px;
+  margin: 18px;
   font-style: italic;
 }
 
@@ -52,6 +52,12 @@
   color: #EF5BA1;
 }
 
+.GroupPanel {
+  background:url(
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVQYV2N8//59AwMOwAiSFBQUxKpg0EkCANJJG1UAh5gpAAAAAElFTkSuQmCC    
+  ) repeat;
+}
+
 .GroupPanel .Title {
   font-weight: 400;
   color: #26BDCF;
@@ -66,22 +72,23 @@
 .ProjectCard .Title {
   font-weight: 100;
   color: #EF5BA1;
+}
 
+.ProjectCard .CardContent {
+  padding: 10px !important;
 }
 
 .ProjectCard img {
   height: 140px;
 }
 
-.ProjectCard a:hover {
-  cursor: pointer;
-}
-
-.ProjectCard nav {
-  padding: 0;
-  margin-top: 12px;
-}
-
-.ProjectCard nav div {
+.ProjectCard ul, .ProjectCard ul div {
   text-align: center;
+  padding: 0;
 }
+
+.ProjectCard a:hover {
+  background-color: #EF5BA1;
+}
+
+
