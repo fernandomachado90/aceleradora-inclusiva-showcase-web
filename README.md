@@ -2,7 +2,7 @@
 
 ![alt text](https://aceleradora-inclusiva.herokuapp.com/images/inclusiva-logo.png "Aceleradora Inclusiva")
 
-Showcase de projetos web produzidos pelas turmas da Aceleradora Inclusiva. Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
+Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**. Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
 
 ## Arquitetura
 
