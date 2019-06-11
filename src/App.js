@@ -7,13 +7,12 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-
 import CardMedia from '@material-ui/core/CardMedia';
+
 import Typography from '@material-ui/core/Typography';
 
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-
 import ListItemText from '@material-ui/core/ListItemText';
 
 import ExpansionPanel from '@material-ui/core/ExpansionPanel';
@@ -96,8 +95,11 @@ const Header = () => {
       <img src="images/inclusiva-logo.png" className="Logo"
         alt="logo da Aceleradora Inclusiva, com uma onda crescente de pessoas emergindo de um computador" />
       <Typography variant="body1" color="textSecondary"> 
-        A <b>Aceleradora Inclusiva</b> é um projeto de educação inclusiva fruto de uma parceria entre <b>ThoughtWorks</b>, <b>PUCRS</b> e 
-        o <b>Centro de Inovação da Microsoft</b>, com o objetivo de facilitar o acesso de pessoas em 
+        A <b>Aceleradora Inclusiva</b> é um projeto de educação inclusiva fruto de uma parceria entre 
+        a <b><Link href="http://www.thoughtworks.com/pt" target="_blank">ThoughtWorks</Link></b>, 
+        a <b><Link href="http://www.pucrs.br/" target="_blank">PUCRS</Link></b>, 
+        e o <b><Link href="http://www.centrodeinovacao.org.br/" target="_blank">Centro de Inovação</Link></b>, 
+        com o objetivo de facilitar o acesso de pessoas em 
         situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de <b>lógica de programação</b>.
       </Typography>
 
