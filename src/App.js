@@ -68,7 +68,7 @@ const ProjectCard = ({name, currentPath, path, description, picture, pages}) => 
       <Typography variant="h5" className="Title" gutterBottom> 
         {name}
       </Typography>
-      <Typography color="textSecondary" gutterBottom>
+      <Typography className="CardDescription" color="textSecondary" gutterBottom>
         {description}
       </Typography>
       <List dense={true}>          

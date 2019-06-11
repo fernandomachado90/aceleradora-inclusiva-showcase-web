@@ -19,8 +19,8 @@
 }
 
 .Header p {
-  text-align: justify;
   padding: 10px 0;
+  text-align: justify;
   font-style: italic;
 }
 
@@ -72,12 +72,17 @@
 }
 
 .ProjectCard .Title {
-  font-weight: 100;
+  font-weight: 900;
   color: #EF5BA1;
 }
 
 .ProjectCard .CardContent {
   padding: 10px !important;
+}
+
+.ProjectCard .CardDescription {
+  padding: 2px;
+  font-style: italic;
 }
 
 .ProjectCard img {

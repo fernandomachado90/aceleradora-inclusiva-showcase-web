@@ -1,66 +1,230 @@
 [
-	{
-		"name":"Turma 01",
+  {"name":"Turma 01",
 		"path":"t01",
 		"projects":[
-			{
-				"name":"Quem Sou Eu",
+      {"name":"Quem Sou Eu",
         "path":"quem-sou-eu",
-				"description":"nononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon ononon",
+				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
+				"picture":"images/lapis.jpg",
+				"pages":[
+          {
+            "name": "Cássia",
+            "path": "cassia"
+          },
+          {
+            "name": "Fernanda",
+            "path": "fernanda"
+          },
+          {
+            "name": "Ingrid",
+            "path": "ingrid"
+          },
+          {
+            "name": "Karolay",
+            "path": "karolay"
+          },
+          {
+            "name": "Matheus",
+            "path": "matheus"
+          },
+          {
+            "name": "Nicoly",
+            "path": "nicoly"
+          },
+          {
+            "name": "Pamela",
+            "path": "pamela"
+          },
+          {
+            "name": "Penelope",
+            "path": "penelope"
+          },
+          {
+            "name": "Victoria",
+            "path": "victoria"
+          }
+        ]
+      },
+      {"name":"Bem-vindos à Aceleradora",
+        "path":"bem-vindos",
+				"description":"Saiba mais sobre o projeto em cinco páginas idealizadas pela turma",
+				"picture":"images/lampada.jpg",
+				"pages":[
+          {
+            "name": "Apresentação",
+            "path": "apresentacao"
+          },
+          {
+            "name": "Curso",
+            "path": "curso"
+          },
+          {
+            "name": "Eventos",
+            "path": "eventos"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          },
+          {
+            "name": "Créditos",
+            "path": "creditos"
+          }
+        ]
+      },
+      {"name":"Fale Conosco",
+        "path":"fale-conosco",
+				"description":"Entre em contato conosco através de formulários construídos com Javascript",
 				"picture":"images/coracao.jpg",
 				"pages":[
           {
-            "name": "Cássia",
-            "path": "cassia"
+            "name": "Cássia + Ingrid + Matheus",
+            "path": "g1"
           },
           {
-            "name": "Ingrid",
-            "path": "ingrid"
+            "name": "Fernanda + Romario",
+            "path": "g2"
           },
           {
-            "name": "Gabriel",
-            "path": "gabriel"
+            "name": "Gabriel + Karolay + Penelope",
+            "path": "g3"
+          },
+          {
+            "name": "Nicoly + Pamela + Victoria",
+            "path": "g4"
           }
-				]
-      },
-      {
-				"name":"Bem vindos",
-        "path":"quem-sou-eu",
-				"description":"nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon onononnononono nononono ononononon onon ononon",
-				"picture":"images/lampada.jpeg",
-				"pages":[
-          {
-            "name": "Cássia",
-            "path": "cassia"
-          },
-          {
-            "name": "Ingrid",
-            "path": "ingrid"
-          },
-          {
-            "name": "Gabriel",
-            "path": "gabriel"
-          }
-				]
-			}
+        ]
+      }
 		]
   },
-  {
-		"name":"Turma 02",
+  {"name":"Turma 02",
 		"path":"t02",
 		"projects":[
-			{
-				"name":"Quem Sou Eu",
+      {"name":"Quem Sou Eu",
         "path":"quem-sou-eu",
-				"description":"nononononnononono nononono ononononon onon onononnononono nononono ononononon onon ononon",
+				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
+				"picture":"images/board.jpg",
+				"pages":[
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Alice",
+            "path": "alice"
+          },
+          {
+            "name": "Alisson",
+            "path": "alisson"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Gabriela",
+            "path": "gabriela"
+          },
+          {
+            "name": "Igor",
+            "path": "igor"
+          },
+          {
+            "name": "Lorhanna",
+            "path": "lorhanna"
+          },
+          {
+            "name": "Maria Eduarda",
+            "path": "duda"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Nicoly",
+            "path": "nicoly"
+          },
+          {
+            "name": "Shaienne",
+            "path": "shaienne"
+          },
+          {
+            "name": "Thayra",
+            "path": "thayra"
+          }
+        ]
+      },
+      {"name":"Acelerando Juntas",
+        "path":"acelerando-juntas",
+				"description":"Aprenda sobre justiça econômica e social em páginas criadas pela turma",
+				"picture":"images/giz.jpg",
+				"pages":[
+          {
+            "name": "Bullying",
+            "path": "bullying"
+          },
+          {
+            "name": "Cyber Bullying",
+            "path": "cyberbullying"
+          },
+          {
+            "name": "Cotas Raciais",
+            "path": "cotas"
+          },
+          {
+            "name": "Racismo",
+            "path": "racismo"
+          },
+          {
+            "name": "Hip Hop",
+            "path": "hiphop"
+          },
+          {
+            "name": "Gabaritando",
+            "path": "gabaritando"
+          },
+          {
+            "name": "LGBT",
+            "path": "lgbt"
+          }
+        ]
+      },
+      {"name":"Bem-vindos à Aceleradora",
+        "path":"bem-vindos",
+				"description":"Saiba mais sobre o projeto em sete páginas idealizadas pela classe",
 				"picture":"images/maos.jpg",
 				"pages":[
           {
-            "name": "Cássia",
-            "path": "cassia"
+            "name": "Apresentação",
+            "path": "apresentacao"
+          },
+          {
+            "name": "Conteúdo",
+            "path": "conteudo"
+          },
+          {
+            "name": "Temas Sociais",
+            "path": "p3"
+          },
+          {
+            "name": "Como Fazer Parte",
+            "path": "selecao"
+          },
+          {
+            "name": "Turma",
+            "path": "turma"
+          },
+          {
+            "name": "Professores",
+            "path": "professores"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
           }
-				]
-			}
+        ]
+      }
 		]
-	}
+  }
 ]
