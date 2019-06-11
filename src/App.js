@@ -44,7 +44,7 @@ const theme = createMuiTheme({
 });
 
 const GroupPanel = ({name, path, projects}) => (
-  <ExpansionPanel>
+  <ExpansionPanel className="GroupPanel">
     <ExpansionPanelSummary
       expandIcon={<ExpandMoreIcon />}
       aria-controls="panel1a-content"
@@ -66,7 +66,7 @@ const ProjectCard = ({name, currentPath, path, description, picture, pages}) => 
   <Card className="ProjectCard">
     <CardMedia image={picture} title={name} component="img" />
     <CardContent>
-      <Typography variant="h5" gutterBottom> 
+      <Typography variant="h5" className="Title" gutterBottom> 
         {name}
       </Typography>
       <Typography color="textSecondary" gutterBottom>
@@ -144,7 +144,7 @@ const Footer = () => {
   return (
     <footer className="Footer">
       <Typography variant="overline">
-        <Link target="_blank" href="maito:aceleradora-inclusiva@thoughtworks.com">Contato</Link> 
+        <Link target="_blank" href="mailto:aceleradora-inclusiva@thoughtworks.com">Contato</Link> 
       </Typography>
       <Typography variant="overline">
         Feito com <FavoriteIcon className="FavoriteIcon"/> por <Link target="_blank" href="http://www.thoughtworks.com/pt">ThoughtWorks</Link> 

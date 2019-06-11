@@ -3,11 +3,12 @@
   text-align: center;
 }
 
-.Header, .Main {
-  margin: 0 10%;
+.Header {
+  margin: 0 8%;
 }
 
 .Main {
+  margin: 0 5%;
   margin-bottom: 48px;
 }
 
@@ -51,10 +52,21 @@
   color: #EF5BA1;
 }
 
+.GroupPanel .Title {
+  font-weight: 400;
+  color: #EF5BA1;
+}
+
 .ProjectCard {
   width: 200px;
   height: 100%;
   margin: 0 auto;
+}
+
+.ProjectCard .Title {
+  font-weight: 100;
+  color: #26BDCF;
+
 }
 
 .ProjectCard img {
