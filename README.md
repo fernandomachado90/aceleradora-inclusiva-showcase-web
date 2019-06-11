@@ -1,8 +1,20 @@
 # Aceleradora Inclusiva
 
-Showcase de projetos web produzidos pelas turmas da Aceleradora Inclusiva.
+![alt text](https://aceleradora-inclusiva.herokuapp.com/images/inclusiva-logo.png "Aceleradora Inclusiva")
 
-Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
+Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**. Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
+
+## Arquitetura
+
+O gerenciamento dos projetos que serão exibidos no site é feito através de arquivos contidos nas pastas `public` e `src`.
+
+### public
+
+Este diretório contém os arquivos estáticos que serão acessados pela aplicação em tempo de execução. A pasta `pages` deve ser atualizada com arquivos `.html`, `.css` e `.js` produzidos pelos estudantes.
+
+### src
+
+O arquivo `pages.json` deve refletir a estrutura de pastas contida em `public/pages`, além de dados como título, descrição e imagem de exibição de cada projeto.
 
 # Create React App
 
