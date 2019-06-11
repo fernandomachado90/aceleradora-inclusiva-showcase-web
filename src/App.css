@@ -76,6 +76,8 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: flex-start;
+  padding-top: 0;
+  margin-top: -14px;
 }
 
 .ProjectCard {
