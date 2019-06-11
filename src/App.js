@@ -97,19 +97,32 @@ const Header = () => {
       <img src="images/inclusiva-logo.png" className="Logo"
         alt="logo da Aceleradora Inclusiva, com uma onda crescente de pessoas emergindo de um computador" />
       <Typography variant="body1" color="textSecondary"> 
-        A Aceleradora Inclusiva é um projeto de educação inclusiva fruto de uma parceria entre a ThoughtWorks, a PUCRS 
-        e o Centro de Inovação, que tem como meta facilitar o acesso de pessoas em situação de vulnerabilidade socioeconômica 
-        à tecnologia através do ensino de lógica de programação.
+        A <b>Aceleradora Inclusiva</b> é um projeto de educação inclusiva fruto de uma parceria entre <b>ThoughtWorks</b>, <b>PUCRS</b> e 
+        o <b>Centro de Inovação da Microsoft</b>, com o objetivo de facilitar o acesso de pessoas em 
+        situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de lógica de programação.
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
-        Além de um empoderamento técnico, também desenvolvemos as habilidades interpessoais dos alunos, 
+        Além de um empoderamento técnico, também desenvolvemos as <b>habilidades interpessoais</b> dos alunos, 
         trazendo para o dia-a-dia da classe atividades que envolvem trabalho em equipe, autonomia, 
-        resolução de problemas e temas do pilar de justiça econômica e social da ThoughtWorks.
+        resolução de problemas e temas do pilar de <b>justiça econômica e social</b> da <b>ThoughtWorks</b>.
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
-        Conheça os projetos produzidos por nossas turmas, a seguir.
+        Entendemos que, para construir um <b>futuro tecnológico</b> mais justo para e mudar a cara da área de tecnologia, 
+        nós precisamos voltar nossos olhares para quem irá, de fato, protagonizar este futuro. 
+      </Typography>
+
+      <Typography variant="body1" color="textSecondary"> 
+        Nossa missão é <b>"melhorar a humanidade através do software e gerar um ecossistema 
+        socialmente responsável e economicamente justo"</b> e, para isso, 
+        estamos trabalhando coletivamente para empoderar, capacitar 
+        e diminuir as distâncias entre o povo e a tecnologia.
+      </Typography>
+
+
+      <Typography variant="body1" color="textSecondary"> 
+        Conheça os <b>projetos</b> produzidos por nossas turmas, a seguir.
       </Typography>
     </header>
   );
