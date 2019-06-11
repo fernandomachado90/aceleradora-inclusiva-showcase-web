@@ -4,7 +4,7 @@
 }
 
 .Header, .Main {
-  margin: 0px 100px;
+  margin: 0 10%;
 }
 
 .Main {
@@ -22,8 +22,9 @@
 }
 
 .Logo {
-  width: 90%;
+  width: 95%;
   height: auto;
+  padding: 10px;
 }
 
 .Footer {

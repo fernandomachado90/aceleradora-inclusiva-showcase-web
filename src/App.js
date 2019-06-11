@@ -117,9 +117,8 @@ const Header = () => {
         Nossa missão é <b>"melhorar a humanidade através do software e gerar um ecossistema 
         socialmente responsável e economicamente justo"</b> e, para isso, 
         estamos trabalhando coletivamente para empoderar, capacitar 
-        e diminuir as distâncias entre o povo e a tecnologia.
+        e diminuir as distâncias entre <b>o povo e a tecnologia</b>.
       </Typography>
-
 
       <Typography variant="body1" color="textSecondary"> 
         Conheça os <b>projetos</b> produzidos por nossas turmas, a seguir.
