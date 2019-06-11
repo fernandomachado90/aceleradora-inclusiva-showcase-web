@@ -68,12 +68,13 @@
 
 .ProjectCard {
   width: 200px;
+  min-width: 200px;
   height: 100%;
   margin: 0 auto;
 }
 
 .ProjectCard .Title {
-  font-weight: 900;
+  font-weight: 700;
   color: #EF5BA1;
 }
 
