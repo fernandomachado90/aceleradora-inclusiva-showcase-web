@@ -50,9 +50,9 @@ const GroupPanel = ({name, path, projects}) => (
       aria-controls="panel1a-content"
       id="panel1a-header"
     >
-    <Typography variant="h5" className="Title"> 
-      {name}
-    </Typography>
+      <Typography variant="h5" className="Title"> 
+        {name}
+      </Typography>
     </ExpansionPanelSummary>
     <ExpansionPanelDetails>
     {projects.map((project, index) => (
