@@ -8,8 +8,10 @@
 }
 
 .Main {
-  margin: 0 5%;
+  margin-top: 14px;
   margin-bottom: 48px;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .Main .Title {
@@ -18,7 +20,7 @@
 
 .Header p {
   text-align: justify;
-  margin: 18px;
+  padding: 10px 0;
   font-style: italic;
 }
 

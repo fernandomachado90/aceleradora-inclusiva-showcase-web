@@ -119,9 +119,6 @@ const Header = () => {
         e diminuir as distâncias entre <b>o povo e a tecnologia</b>.
       </Typography>
 
-      <Typography variant="body1" color="textSecondary"> 
-        Conheça os <b>projetos</b> produzidos por nossas turmas, a seguir.
-      </Typography>
     </header>
   );
 }
