@@ -1,5 +1,49 @@
 .App {
+  width: 100%;
   text-align: center;
+}
+
+.Header, .Main {
+  margin: 0 100px;
+}
+
+.Main .Title {
+  text-transform: uppercase;
+}
+
+.Header p {
+  text-align: justify;
+  margin: 14px;
+  font-style: italic;
+}
+
+.Logo {
+  width: 90%;
+  height: auto;
+}
+
+.Footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  display: flex;                  
+  justify-content: space-between;
+  padding: 8px 24px;
+  background-color: #26BDCF;
+}
+
+.Footer a {
+  color: white;
+  font-weight: bold;
+}
+
+.Footer .FavoriteIcon {
+  height: 12px;
+  width: 12px;
+}
+
+.Footer .FavoriteIcon:hover {
+  color: red;
 }
 
 .ProjectCard {
@@ -24,4 +68,3 @@
 .ProjectCard nav div {
   text-align: center;
 }
-

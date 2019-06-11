@@ -5,7 +5,6 @@ import json from './pages.json';
 import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
-
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 
@@ -14,7 +13,6 @@ import Typography from '@material-ui/core/Typography';
 
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import Divider from '@material-ui/core/Divider';
 
 import ListItemText from '@material-ui/core/ListItemText';
 
@@ -23,8 +21,9 @@ import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
 import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
-import Link from '@material-ui/core/Link';
+import FavoriteIcon from '@material-ui/icons/Favorite';
 
+import Link from '@material-ui/core/Link';
 
 const theme = createMuiTheme({
   typography: {
@@ -51,7 +50,7 @@ const GroupPanel = ({name, path, projects}) => (
       aria-controls="panel1a-content"
       id="panel1a-header"
     >
-    <Typography variant="h5"> 
+    <Typography variant="h5" className="Title"> 
       {name}
     </Typography>
     </ExpansionPanelSummary>
@@ -73,7 +72,7 @@ const ProjectCard = ({name, currentPath, path, description, picture, pages}) => 
       <Typography color="textSecondary" gutterBottom>
         {description}
       </Typography>
-      <List component="nav" dense="true">          
+      <List component="nav">          
         {pages.map((page, index) => (
           <ProjectLink key={index} currentPath={currentPath +'/'+ path} {...page} />
         ))}
@@ -94,26 +93,54 @@ const ProjectLink = ({name, currentPath, path}) => (
 
 const Header = () => {
   return (
-  <Typography variant="body1"> 
-    A Aceleradora Inclusiva é um projeto de educação inclusiva fruto de uma parceria entre a ThoughtWorks, a PUCRS e o Centro de Inovação, que tem como meta facilitar o acesso de pessoas em situação de vulnerabilidade socioeconômica à tecnologia através do ensino de lógica de programação.
-  Além do empoderamento técnico, também buscamos desenvolver as habilidades interpessoais dos alunos, trazendo para o dia-a-dia da turma conceitos como trabalho em equipe, pareamento, cultura de feedback e cultivo de pessoas além de fomentar um espaço seguro para o desenvolvimento de empatia ao abordar temas do nosso pilar de justiça econômica e social (P3).
-  </Typography>
-) 
+    <header className="Header">     
+      <img src="images/inclusiva-logo.png" className="Logo"
+        alt="logo da Aceleradora Inclusiva, com uma onda crescente de pessoas emergindo de um computador" />
+      <Typography variant="body1" color="textSecondary"> 
+        A Aceleradora Inclusiva é um projeto de educação inclusiva fruto de uma parceria entre a ThoughtWorks, a PUCRS 
+        e o Centro de Inovação, que tem como meta facilitar o acesso de pessoas em situação de vulnerabilidade socioeconômica 
+        à tecnologia através do ensino de lógica de programação.
+      </Typography>
+
+      <Typography variant="body1" color="textSecondary"> 
+        Além de um empoderamento técnico, também desenvolvemos as habilidades interpessoais dos alunos, 
+        trazendo para o dia-a-dia da classe atividades que envolvem trabalho em equipe, autonomia, 
+        resolução de problemas e temas do pilar de justiça econômica e social da ThoughtWorks.
+      </Typography>
+
+      <Typography variant="body1" color="textSecondary"> 
+        Conheça os projetos produzidos por nossas turmas, a seguir.
+      </Typography>
+    </header>
+  );
 }
 
-function Footer() {
+const Main = () => {
+ return (
+  <main className="Main">
+    <Typography className="Title" variant="h4" gutterBottom> 
+      Projetos
+    </Typography>
+    {json.map( (group, index) => (
+      <GroupPanel key={index} {...group} />
+    ))}
+  </main>
+ );
+}
+
+const Footer = () => {
   return (
-    <footer>
-    <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-      Something here to give the footer a purpose!
-    </Typography>
-    <Typography variant="body2" color="textSecondary" align="center">
-      {'Built with love by the '}
-      <Link color="inherit" href="https://material-ui.com/">
-        Material-UI
-      </Link>
-      {' team.'}
-    </Typography>
+    <footer className="Footer">
+      <Typography variant="overline">
+        <Link target="_blank" href="maito:aceleradora-inclusiva@thoughtworks.com">Contato</Link> 
+      </Typography>
+      <Typography variant="overline">
+        Feito com <FavoriteIcon className="FavoriteIcon"/> por <Link target="_blank" href="http://www.thoughtworks.com/pt">ThoughtWorks</Link> 
+      </Typography>
+      <Typography variant="overline">         
+          <Link target="_blank" 
+          href="https://github.com/fernandomachado90/aceleradora-inclusiva-showcase-web/">Contribua</Link>
+      </Typography>
     </footer>
   );
 }
@@ -124,23 +151,50 @@ class App extends React.Component {
         <div className="App">
           <CssBaseline/>
           <MuiThemeProvider theme={theme}>
-            
-            <p>
-              <img src="images/inclusiva-logo.png" width="800px" 
-                title="logo da Aceleradora Inclusiva, com uma onda crescente de pessoas emergindo de um computador" />
-            </p>
             <Header/>
-            <main>
-            {json.map( (group, index) => (
-              <GroupPanel key={index} {...group} />
-            ))}
-            </main>
+            <Main/>
             <Footer/>
-
           </MuiThemeProvider>
         </div>
     );
   }
 }
+
+/*
+projects.js
+
+const Projects = (projects) => {
+  return (
+    <div className="projects">
+      {
+        projects.map((project, index) => (
+          <GroupPanel
+            key={index}
+            id={project.id}
+            title={project.title}
+          />
+        ))
+      }
+    </div>
+  )
+}
+
+projects-spec.js
+
+const aceleradora = {
+  id: '1',
+  title: 'meutitulo'
+}
+
+describe('Projects', () => {
+  it('renderiza projetos', () => {
+    const component = mount(<Projects projects={aceleradora} />)
+    expect(component.find('GrouPanel')).legth(1)
+    expect(component.find('GroupPannel').first())).to
+  })
+})
+
+rodar com enzyme?
+*/
 
 export default App;
