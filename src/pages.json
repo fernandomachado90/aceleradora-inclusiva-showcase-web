@@ -48,7 +48,7 @@
       {"name":"Bem-vindos à Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em cinco páginas idealizadas pela turma",
-				"picture":"images/lampada.jpg",
+				"picture":"images/shapes.jpg",
 				"pages":[
           {
             "name": "Apresentação",
@@ -284,7 +284,7 @@
       {"name":"Questionário",
         "path":"questionario",
 				"description":"Responda às perguntas dos estudantes em formulários construídos com HTML",
-				"picture":"images/pergunta.jpg",
+				"picture":"images/caderno.jpg",
 				"pages":[
           {
             "name": "Ashley",
