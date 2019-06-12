@@ -226,5 +226,147 @@
         ]
       }
 		]
+  },
+  {"name":"Turma 03",
+		"path":"t03",
+		"projects":[
+      {"name":"Quem Sou Eu",
+        "path":"quem-sou-eu",
+				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
+				"picture":"images/feet.jpg",
+				"pages":[
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Arlanda",
+            "path": "arlanda"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Meylin",
+            "path": "meylin"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          }
+        ]
+      },
+      {"name":"Questionário",
+        "path":"questionario",
+				"description":"Responda às perguntas dos estudantes em formulários construídos com HTML",
+				"picture":"images/pergunta.jpg",
+				"pages":[
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          }
+        ]
+      },
+      {"name":"E-Zine Social",
+        "path":"e-zine",
+				"description":"Aprenda sobre justiça econômica e social em páginas criadas pela turma",
+				"picture":"images/folhas.jpg",
+				"pages":[
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          }
+        ]
+      },
+      {"name":"Calculadora",
+        "path":"calculadora",
+				"description":"Faça suas contas usando as calculadoras construídas em Javascript (em progresso)",
+				"picture":"images/abacus.jpg",
+				"pages":[
+          
+        ]
+      },
+      {"name":"Bem-vindos à Aceleradora",
+        "path":"bem-vindos",
+				"description":"Saiba mais sobre o projeto em páginas idealizadas pela turma (em progresso)",
+				"picture":"images/enter.jpg",
+				"pages":[
+          
+        ]
+      }
+		]
   }
 ]
