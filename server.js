@@ -1,3 +1,5 @@
+// reference: https://facebook.github.io/create-react-app/docs/deployment
+
 const express = require('express');
 const favicon = require('express-favicon');
 const path = require('path');
