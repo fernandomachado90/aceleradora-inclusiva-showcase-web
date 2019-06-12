@@ -1,0 +1,33 @@
+.titulo{
+width: 90%;
+ text-align: center;
+}
+.color{
+  color:#000;
+}
+.paragrafo {
+  font-size:22px;
+}
+
+.linha:hover {
+  color:white;
+}
+
+
+li:hover {
+  color: #000;
+}
+.centralizacao{
+  width:600px;
+  margin:0 auto;
+}
+header{
+  height:150px;
+  background-image:
+  url("https://66.media.tumblr.com/820ce4478b5ca79faff71a6efb3026d4/tumblr_ojgpo9Ddtt1r4oq9eo1_500.gif");
+  margin:60px;
+  background-position:1px;
+}
+body{
+  background:rgb(249, 202, 36)
+}

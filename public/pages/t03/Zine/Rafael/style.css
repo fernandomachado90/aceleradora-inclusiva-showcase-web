@@ -1,0 +1,32 @@
+.corpo{
+  background-image: url(https://www.sciencenews.org/sites/default/files/2018/12/main/articles/121818_LG_sugar-space_feat.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  margin: auto;
+  width: 800px;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3 {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+h1 {
+  font-size: 50px;
+  
+}
+.umbanda{
+  width:750px;
+  heigth:350px;
+}
+.budismo{
+  width:750px;
+  heigth:350px;
+}
+.judaismo{
+  width:750px;
+  heigth:350px;
+}

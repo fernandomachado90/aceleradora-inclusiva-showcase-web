@@ -1,0 +1,31 @@
+
+
+  .titulo{
+  color: black;
+    padding:15px;
+}
+
+.paragrafo{
+ font-size:25px; 
+ 
+ 
+}
+
+body{
+  font-family: 'Oswald', sans-serif;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyOUs45bxVa1Dyg8cxKkX7x0yPFDOqAZw5gx5sSAdUyvN7kyM");
+  background-size: 100px
+   background-repeat: no-repeat;
+}
+
+li:hover {
+  color: black;
+}
+  
+.conteudo-principal {
+    width:600px;
+    margin: auto;
+}
+li{white;
+  color:;
+}

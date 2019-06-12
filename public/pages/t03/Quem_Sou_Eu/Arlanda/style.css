@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/background-universe-hd-1.jpg"); 
+  font-family: 'Shadows Into Light', cursive;
+  background-size: cover;
+}
+img{
+  padding-left: 5%;
+}
+p
+{ color: #ffff99;
+  font-size: 18px;
+}
+
+h1
+{
+color: pink;
+}
+
+.p1{
+  color: #ffff99;
+}
+
+

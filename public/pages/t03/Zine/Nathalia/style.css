@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  font-family: 'Lobster', cursive
+}
+body{
+  background: url("https://s3-sa-east-1.amazonaws.com/estrategia-blogs-prod/oab/wp-content/uploads/2017/03/06203753/Direitos-Humanos.jpg");
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+ background-position: center;
+    
+ 
+}
+h1{
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: #0d5ee0;
+}
+p{
+  font-size:25px;
+  font-family: 'Lobster', cursive;
+  color:black;
+  background-color:rgba(255,255,255, 0.75)
+}
+h2{
+  font-size: 45px;
+  font-family: 'Lobster', cursive;
+  color: #460649;
+}
+a{
+  font-size:35px;
+  font-family: 'Lobster', cursive;
+  color:black;
+}
+
+hr {
+  border: 2px solid black;
+}
+h3{
+  font-size: 45px;
+  font-family: 'Lobster', cursive;
+  color: #460649;
+}
+h4 {
+  color: black;
+  font-size: 20px;
+  background-color:rgba(255,255,255, 0.75)
+}

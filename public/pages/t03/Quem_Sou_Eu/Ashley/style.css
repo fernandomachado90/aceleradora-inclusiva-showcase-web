@@ -1,0 +1,29 @@
+
+body{
+  font-family: 'Pacifico', cursive;
+  background-color: pink;
+  color:black;
+  font-size: large
+    font-variant
+}
+.classe {
+  color:purple;
+}
+.icone{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+h2 {
+  vertical-align: ;
+}
+
+p {
+ font-size: 20px;
+ line-height: 1.5;
+}
+li:hover{
+  background:purple;
+  display:inline
+}

@@ -1,0 +1,57 @@
+
+body {
+  background-color:#f7cfde ;
+  
+}
+img{
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+}
+
+header {
+  height: 80px;
+  background: #9b1b37;
+  margin: 50px;
+  padding-top: 50px;
+}
+
+.minha-classe{
+  color: #9b1b37;
+}
+
+.minha-cor{
+  color:#631317
+}
+li:hover{
+  backgroud: black;
+  color: red; 
+}
+.conteudo-principal{
+   width: 800px;
+   margin: 0 auto;
+  border: 1px solid;
+  padding: 25px;
+  
+}
+.titulo-da-pagina{
+  margin: 0 auto;
+  width: 500px;
+  color: white;
+  
+}
+table{
+  background-color: #ff9999;
+  font-size: 25px;
+}
+td{
+  border: 2px dashed #ffcce0;
+  padding-top: left;
+}
+  
+  
+  
+  
+
+
+
