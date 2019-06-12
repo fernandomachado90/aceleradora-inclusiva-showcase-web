@@ -353,7 +353,7 @@
       },
       {"name":"Calculadora",
         "path":"calculadora",
-				"description":"Faça suas contas usando as calculadoras construídas em Javascript (em progresso)",
+				"description":"Faça suas contas usando as calculadoras construídas com Javascript (em progresso)",
 				"picture":"images/abacus.jpg",
 				"pages":[
           
