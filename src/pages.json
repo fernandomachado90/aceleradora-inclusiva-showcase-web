@@ -322,32 +322,32 @@
 				"picture":"images/folhas.jpg",
 				"pages":[
           {
-            "name": "Ashley",
-            "path": "ashley"
+            "name": "Aborto",
+            "path": "aborto"
           },
           {
-            "name": "Brayan",
-            "path": "brayan"
+            "name": "Deep Web",
+            "path": "deep-web"
           },
           {
-            "name": "Ester",
-            "path": "ester"
+            "name": "Direitos do Adolescente",
+            "path": "direitos-do-adolescente"
           },
           {
-            "name": "Guilherme",
-            "path": "guilherme"
+            "name": "Drogas",
+            "path": "drogas"
           },
           {
-            "name": "Isadora",
-            "path": "isadora"
+            "name": "Intolerância Religiosa",
+            "path": "intolerancia-religiosa"
           },
           {
-            "name": "João Vitor",
-            "path": "joao-vitor"
+            "name": "LGBT",
+            "path": "lgbt"
           },
           {
-            "name": "Nathalia",
-            "path": "nathalia"
+            "name": "Parada LGBT e Homofobia",
+            "path": "lgbt-parada-homofobia"
           }
         ]
       },
