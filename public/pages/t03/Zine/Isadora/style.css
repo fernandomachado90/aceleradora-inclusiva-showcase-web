@@ -1,0 +1,50 @@
+body {
+  background: url(https://i.pinimg.com/564x/ef/55/71/ef55715548cea7ee51b4a9ef5e659106.jpg) ;
+.titulo-da-pagina{
+  margin: 0 auto;
+  width: 500px;
+  color: blue;
+  
+}
+}
+td{
+  border: 2px dashed #ffcce0;
+  padding-top: left;
+}
+header {
+  height: 150px;
+  background-image: url("https://www.sitedecuriosidades.com/imagens/lgbt-DA.jpg");
+  margin: 10px;
+  padding-top: 30px;
+  background-repeat: no-repeat;
+  background-position: center 0%;
+
+}
+.mage{
+  width: 300px;
+  height: 300px;
+  right: 400px;
+  left: 400px;
+  margin: 40px;
+}
+ 
+
+
+h2{
+  float: right;
+  width: 800px;
+  height: 300px;
+}
+.imag{
+  float: right;
+  width: 300px;  
+}
+.img2{
+   width: 300px;   
+}
+
+footer{
+  
+}
+
+

@@ -1,0 +1,49 @@
+
+h5{
+  font-size: 30px;
+  color:#00ffff;
+}
+.lista{
+  font-size: 30px;
+  color:#00ffff;
+    
+}
+p{
+  font-size:30px;
+  color:#fffb11;
+}
+p:hover{
+  background:black;
+  color:#00ffff;
+}
+body{
+  background:url(https://i.pinimg.com/736x/4b/68/37/4b683750c1234bbb81057beaaf8e1d07.jpg) 
+}
+h2{
+  font-size:30px;
+  color:#fffb11;
+}
+
+h3{
+   font-size:25px;
+   color:#04f2da;
+}
+li:hover {
+ background:black;
+  color:#fffb30;
+}
+h4{
+  font-size: 45px;
+  color:#04f2da;
+}
+.conteudo-principal{
+  width: 900px;
+  margin:0 auto;
+   font-family: 'Slabo 27px', serif;
+
+}
+#botao{
+  background-color:#2241bf;
+  font-family: 'PT Serif', serif;
+  font-size:20px;
+}

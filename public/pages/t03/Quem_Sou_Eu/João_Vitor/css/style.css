@@ -1,0 +1,43 @@
+  .titulo{
+  color: black;
+    padding:15px;
+}
+
+.subtitulo{
+ font-size:22px; 
+ color: #9b00ae
+
+;
+}
+
+
+body{
+  font-family: 'Oswald', sans-serif;
+  background-image: url("https://forum.pimaxvr.com/uploads/default/original/2X/c/cf1501569b205694209be3674c46474402a6eb6e.jpg");   
+  background-size: 1300px;
+   background-repeat: no-repeat;
+}
+
+li:hover {
+  background: #ff98ff;
+  color: black;
+  
+}
+
+ .conteudo-principal {
+  width:600px;
+  margin:0 auto;
+}
+ 
+.fundo_transparente{
+  background: orange;
+  width:100%;
+  height:100%;
+  opacity: 0.1;
+  position: absolute;
+}
+
+hr{
+ border-color: black; 
+}
+

@@ -1,0 +1,34 @@
+ .este_e_span{
+    color:green;
+  }
+.titulo {
+  color:#2aff00;
+  font-family: 'Bevan',cursive;
+}
+.corpo{
+  background-image: url(https://www.sciencenews.org/sites/default/files/2018/12/main/articles/121818_LG_sugar-space_feat.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  min-height: 100%;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li:hover{
+  color:#ff00e1;
+}
+.txt_principal{
+ 
+}
+#gif {
+  float: right;
+}
+.gifs{
+   width:350px;
+  heigth:350px;
+}
+.pontos_
+

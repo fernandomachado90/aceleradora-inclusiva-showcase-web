@@ -1,0 +1,56 @@
+.cabecalho{
+  aling-items: center;
+  display: flex;
+  justify-content: center;
+  background-color: #f2d585;
+  color: BLACK;
+}
+
+.redes{
+  width: 30px;
+  margin-left: 0;
+  background-color: white;
+}
+button{
+  background-color: #c7ea85 ;
+}
+input{
+ 
+}
+.titulo{
+ aling-items: center;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.folhadecoca{
+   float: right; 
+  width: 150px;
+  border: solid white;
+
+  
+}
+#coca{
+   float: right; 
+}
+img{
+  width: 20px;
+}
+.video{
+ width:"560";
+ height:"315";
+}
+body{
+background-image: url("https://i.pinimg.com/236x/f4/b3/9d/f4b39d0bd9ac1c94fdd49b49dfc98446--cellphone-wallpapers-iphone--wallpaper.jpg");
+  width: 800px;
+  margin: 0 auto;
+}
+h2{
+  color: white;
+}
+h3{
+  color:#dae3f2;
+}
+h4{
+  color:#dae3f2;
+}

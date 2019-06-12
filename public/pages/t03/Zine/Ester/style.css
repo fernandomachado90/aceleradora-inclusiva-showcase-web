@@ -1,0 +1,29 @@
+
+ .titulo{
+width: 100%;
+ text-align: center;
+}
+
+.centralizacao{
+  width:600px;
+  margin:0 auto;
+  background-color: rgba(255,255,255,0.75);
+  font-family: 'roboto condensed';
+  padding: 30px;
+}
+
+img{
+  margin:50px;
+  margin-left:50px;
+}
+html{
+  background-image:
+  url("https://http2.mlstatic.com/bandeira-lgbt-gls-arco-iris-parada-gay-menor-preco-105-x-130-D_NQ_NP_684565-MLB28239364280_092018-F.jpg");
+ 
+}
+a{
+  
+  font-size:30px;
+  color:blue;
+  font-family: 'Anton', sans-serif;
+}

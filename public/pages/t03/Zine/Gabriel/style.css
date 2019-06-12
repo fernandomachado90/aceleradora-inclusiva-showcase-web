@@ -1,0 +1,33 @@
+.titulo{
+  text-align: center;
+  font-family: 'Alfa Slab One', cursive;
+  color: #DCDCDC;
+    padding:15px;
+}
+.paragrafo{
+  color:#DCDCDC;
+  font-weight: bold;
+  background-color: rgba(0,0,0,0.75);
+  width:600px;
+  margin: auto;
+font-family: 'Yeon Sung', cursive;
+}
+body{
+  
+ background-image:
+url("https://2.bp.blogspot.com/-T4HsBoSbqus/WO0j1zpGWdI/AAAAAAAAAbg/Uz93sUHvIsgQTzH73VnGZSpeIh_zJtL2ACEw/s1600/1c8d4d29940709.560b8162bdfd0.gif");
+    background-size:600px
+    background-repeat: no-repeat;
+}
+
+.video{
+  display: block;
+  margin: 0 auto;
+  border: 2px dashed #00FF00
+}
+a{
+  color: #DCDCDC;
+  display: block;
+  margin: 0 auto;
+  font-size:24px;
+}

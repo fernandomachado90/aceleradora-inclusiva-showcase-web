@@ -1,0 +1,22 @@
+iframe{
+  display: block;
+  margin: 0;
+}
+p{
+font-family: 'Teko', sans-serif;
+  font-size:30px;
+  color:black;
+   background-color:rgba(255, 255, 255, 0.75)
+}
+body{
+  text-align:center;
+ background-image: url("https://i.pinimg.com/564x/02/ae/e4/02aee4e33a4358113b9e5eca14805091.jpg");
+
+  margin: 0 auto;
+  width: 800px;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
