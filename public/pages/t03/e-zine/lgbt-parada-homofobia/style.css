@@ -1,50 +1,29 @@
-body {
-  background: url(https://i.pinimg.com/564x/ef/55/71/ef55715548cea7ee51b4a9ef5e659106.jpg) ;
-.titulo-da-pagina{
-  margin: 0 auto;
-  width: 500px;
-  color: blue;
-  
-}
-}
-td{
-  border: 2px dashed #ffcce0;
-  padding-top: left;
-}
-header {
-  height: 150px;
-  background-image: url("https://www.sitedecuriosidades.com/imagens/lgbt-DA.jpg");
-  margin: 10px;
-  padding-top: 30px;
-  background-repeat: no-repeat;
-  background-position: center 0%;
 
+ .titulo{
+width: 100%;
+ text-align: center;
 }
-.mage{
-  width: 300px;
-  height: 300px;
-  right: 400px;
-  left: 400px;
-  margin: 40px;
+
+.centralizacao{
+  width:600px;
+  margin:0 auto;
+  background-color: rgba(255,255,255,0.75);
+  font-family: 'roboto condensed';
+  padding: 30px;
 }
+
+img{
+  margin:50px;
+  margin-left:50px;
+}
+html{
+  background-image:
+  url("https://http2.mlstatic.com/bandeira-lgbt-gls-arco-iris-parada-gay-menor-preco-105-x-130-D_NQ_NP_684565-MLB28239364280_092018-F.jpg");
  
-
-
-h2{
-  float: right;
-  width: 800px;
-  height: 300px;
 }
-.imag{
-  float: right;
-  width: 300px;  
-}
-.img2{
-   width: 300px;   
-}
-
-footer{
+a{
   
+  font-size:30px;
+  color:blue;
+  font-family: 'Anton', sans-serif;
 }
-
-
