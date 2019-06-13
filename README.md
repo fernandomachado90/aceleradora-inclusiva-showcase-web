@@ -4,6 +4,8 @@
 
 Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**. Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
 
+Imagens: [pexels.com](https://www.pexels.com/)
+
 ## Arquitetura
 
 O gerenciamento dos projetos que serão exibidos no site é feito através de arquivos contidos nas pastas `public` e `src`.
