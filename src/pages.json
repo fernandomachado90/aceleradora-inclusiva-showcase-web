@@ -322,7 +322,7 @@
       },
       {"name":"E-Zine Social",
         "path":"e-zine",
-				"description":"Aprenda sobre justiça econômica e social em páginas criadas pela turma",
+				"description":"Aprenda sobre assuntos sociais e curiosidades em páginas criadas pela turma",
 				"picture":"images/folhas.jpg",
 				"pages":[
           {
@@ -348,6 +348,10 @@
           {
             "name": "Intolerância Religiosa",
             "path": "intolerancia-religiosa"
+          },
+          {
+            "name": "Jupiter",
+            "path": "jupiter"
           },
           {
             "name": "LGBT",
