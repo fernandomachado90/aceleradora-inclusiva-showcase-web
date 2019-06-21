@@ -291,6 +291,10 @@
 				"picture":"images/caderno.jpg",
 				"pages":[
           {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
             "name": "Ashley",
             "path": "ashley"
           },
@@ -365,10 +369,53 @@
       },
       {"name":"Calculadora",
         "path":"calculadora",
-				"description":"Faça suas contas usando as calculadoras construídas com Javascript (em progresso)",
+				"description":"Faça suas contas usando as calculadoras construídas com Javascript",
 				"picture":"images/abacus.jpg",
 				"pages":[
-          
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          },
+          {
+            "name": "Rayana",
+            "path": "rayana"
+          }
         ]
       },
       {"name":"Bem-vindos à Aceleradora",

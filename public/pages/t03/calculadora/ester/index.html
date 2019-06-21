@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>calculadora2</title>
+  
+  
+  
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <label class="centralizacao">Numero 1 </label>
+<input id="valor_1" type="number" class="entrada"/>
+<label class="centralizacao">Numero 2 </label>
+<input id="valor_2" type="number"class="entrada centralizacao"/>
+<input id="naturais" type="checkbox"/>
+</br>
+
+<button class= "titulo" onClick= "operacao('+')"
+  id="btn_soma">+</button>
+</br>
+
+<button class= "titulo" onClick="operacao('-')"
+        id="btn_subtrair">-</button>
+</br>
+
+<button class= "titulo" onClick= "operacao('*')"
+       id="btn_multiplicar" >x</button>
+</br>
+
+<button class= "titulo" onClick= "operacao('/')"
+     id="btn_dividir" >/</button> </br>
+
+<input id= "resultado" type ="number">
+ <button type="button" 
+ 
+ onClick="trocar()">Trocar</button>
+ 
+<button type="button" onClick="zerar()">Zerar</button>
+ 
+<button type="button" onClick="limpar()">Limpar</button>
+
+<button onClick = "verhistorico()" class= ""/>Ver historico</button>
+
+<button onClick = "anterior()" class="">anterior</button>
+
+<button onClick = "limparhistorico()" class=" ">Limpar historico</button>
+  
+  
+
+    <script  src="./script.js"></script>
+
+
+
+
+</body>
+
+</html>
