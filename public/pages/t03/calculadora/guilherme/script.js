@@ -1,6 +1,4 @@
- 
-function operar(operacao){
-    vavar historico=[];
+ var historico=[];
 function operar(operacao){
     var elementos = document.getElementsByClassName("numeros");
     var elemento1 = elementos[0];
@@ -61,71 +59,4 @@ function ver_historico( ){
  }
  function limpar_historico(){
   historico = [];
- }r elemento1 =document.getElementById("valor_1");
-    var elemento2 = document.getElementById("valor_2");
-    var elemento1valor = parseInt(elemento1.value);
-    var elemento2valor = parseInt(elemento2.value);
-    var resultado = document.getElementById("resultado");
-  
-  var elementosEntrada =  document.getElementsByClassName("entrada")
-  var elementosSaida =  document.getElementsByClassName("saida")
-  
-    switch (operacao){
-   case "+":
-  
-       resultado.value = elemento1valor + elemento2valor;
-     break;
-      case "-":
-       resultado.value = elemento1valor - elemento2valor;
-       break;
-        case "/":
-         if(elemento2valor == 0) {
-          resultado.value = "deu erro";
-    } else{
-           resultado.value = elemento1valor / elemento2valor;
-        }
-      
-       break;
-        case "*":
-       resultado.value = elemento1valor * elemento2valor;
-       break;
-      case "limpar":
-        resultado.value= " ";
-        elemento1.value = " ";
-        elemento2.value = " ";
-        break;
-      case "zerar":
-          elemento1.value = 0
-        elemento2.value = 0
-      case"trocar": 
-        var trocar = elemento1.value;
-        elemento1.value = elemento2.value;
-        elemento2.value = trocar;
-    }
  }
-
-function multiplicaçao(elemento1valor , elemento2valor){
-  var somatorio =0;
-  for(var contador=0;contador<elemento1; contador++){
-      somatorio = somatorio + elemento2valor;{
-        return somatorio;
-      }
-  }
-}
-  var historico=[]
-  var vetor = document.getElementsByClassName("entrada")
-  
-  function anterior(){
-   for(var i=anterior.lenght-1; i>0; i--){
-      alert(historico[i])
-   }
-    
-  } 
-function  historico(){
-   for(var i= historico.lenght-1; i>0; i--){
-      alert(historico[i])
-   }
-  function limparHistorico(){
-   for(var i=historico.lenght-1; i>0; i--){
-      alert(historico[i])
-   }
