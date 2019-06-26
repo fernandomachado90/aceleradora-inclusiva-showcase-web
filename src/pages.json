@@ -420,10 +420,33 @@
       },
       {"name":"Bem-vindos à Aceleradora",
         "path":"bem-vindos",
-				"description":"Saiba mais sobre o projeto em páginas idealizadas pela turma (em progresso)",
+				"description":"Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
 				"picture":"images/enter.jpg",
 				"pages":[
-          
+          {
+            "name": "Introdução",
+            "path": "introducao"
+          },
+          {
+            "name": "Conteúdo Técnico",
+            "path": "aulas-tecnicas"
+          },
+          {
+            "name": "Temas Sociais",
+            "path": "aulas-especiais"
+          },
+          {
+            "name": "Quem fez parte",
+            "path": "turma"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          },
+          {
+            "name": "Contato",
+            "path": "contato"
+          }
         ]
       }
 		]

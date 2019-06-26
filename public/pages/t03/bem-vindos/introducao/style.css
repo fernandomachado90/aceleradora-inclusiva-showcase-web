@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans';
+    text-align:justify;
+    margin:auto 10%;
+   align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+  background-image:
+}
+.bloco{
+  box-shadow: 2px -2px 20px 4px #ccc;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+h1{
+    color:#ee964b;
+}
+h2{
+    color:#28AFB0;
+}
+textarea{
+  width: 100%;
+  color-text:#fffa00;
+}

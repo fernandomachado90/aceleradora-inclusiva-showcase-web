@@ -1,0 +1,41 @@
+body{
+  font-family:"Open Sans";
+  text-aling: justify;
+  margin: auto 10%;
+}
+h1{
+  color:#ee964b;
+}
+h2{
+  color:#28afb0;
+}
+P{
+  color:black;
+}
+th{
+  border: 2px groove black;
+  padding: 06px;
+}
+table{
+  border-colapse: collapse;
+  text-align: left;
+}
+td{
+    border: 2px outset black;
+  padding: 06px;
+  color:black;
+}
+tbody tr.linha:hover{
+  background-color:pink;
+}
+img{
+  width:400px;
+  height:300px;
+  margin-left:30%;
+  border: double #28afb0;
+  
+}
+b{
+  color:#28afb0;
+}
+
