@@ -1,0 +1,21 @@
+th{
+ background-color:red;
+     border:2px dashed #000000;
+  padding: 5px;
+}
+
+.cabecalho{
+  width:700px;
+  margin:0 auto;
+}
+body{
+  background-color: #808080;
+
+}
+
+tbody{
+   background-color: white;
+} 
+table{
+  font-size: 20px;
+}  
