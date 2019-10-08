@@ -1,0 +1,10 @@
+body:hover {
+ color: purple;
+}
+h1 {
+  color: orange;
+}
+
+* {
+  font-family: 'Dancing Script', cursive;
+}

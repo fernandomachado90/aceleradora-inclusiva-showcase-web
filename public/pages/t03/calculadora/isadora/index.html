@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora</title>
+  
+  
+  
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <label>Numero 1 </label>
+<input id="valor_1" type="number"/>
+<label>Numero 2 </label>
+<input id="valor_2" type="number"/>
+<label>Naturais</label>
+<input id="naturais" class="naturais" type="checkbox"/>
+
+</br>
+
+<button class="botao" onClick= "operacao('+')"
+        id="btn_soma" > + </button>
+</br>
+
+<button class="botao" onClick= "operacao('-')"
+        id="btn_subtrair">-</button>
+</br>
+
+<button class="botao" onClick= "operacao('*')"
+       id="btn_multiplicar" > * </button>
+</br>
+
+<button class="botao" onClick= "operacao('/')"
+     id="btn_dividir" > / </button>
+</br>
+<input id = "resultado" type ="number">
+
+  <button class="botao" type="button" onClick="Trocar()">Trocar</button>
+  <button class="botao" type="button" onClick="Zerar()">Zerar</button>
+  <button  class="botao"type="button" onClick="Limpar()">Limpar</button>
+  
+<button class="botao"
+     type="button"onClick="anterior()">Anterior</button>
+<button class="botao"
+     type="button"onClick="verHistorico()">Ver Historico</button>
+<button class="botao" 
+     type="button"onClick="limparhistorico()">Limpar Historico</button>
+  
+  
+
+    <script  src="./script.js"></script>
+
+
+
+
+</body>
+
+</html>

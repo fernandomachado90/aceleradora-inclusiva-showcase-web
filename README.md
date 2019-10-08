@@ -4,6 +4,8 @@
 
 Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**. Clique [aqui](https://aceleradora-inclusiva.herokuapp.com/) para visitar o site.
 
+Imagens: [pexels.com](https://www.pexels.com/)
+
 ## Arquitetura
 
 O gerenciamento dos projetos que serão exibidos no site é feito através de arquivos contidos nas pastas `public` e `src`.
@@ -24,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm run start-local`
+### `npm run local`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

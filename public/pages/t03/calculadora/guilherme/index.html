@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>calculadora oficial</title>
+  
+  
+  
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <div class="campos">
+
+<div>
+  <label for="valor_1">Primeiro valor:</label>
+  <br>
+  <input type="number" id="valor_1" class="numeros"/>
+  </div>
+
+<div>
+   <label for="valor_2">Segundo valor:</label>
+  <br>
+   <input type="number" id="valor_2" class="numeros"/>
+</div>
+
+<div>
+   <label for="resultado">Resultado:    </label>
+  <br>
+  <input id="resultado" disabled/>
+</div>
+
+ </div>
+<br>
+
+<div class="botoes_aritimeticos">
+  
+  <button onClick="operar('+')" 
+id="bntsoma">
++
+  </button>
+   </button>
+  <button onClick="operar('-')" 
+id="bntsubtracao">
+-
+  </button>
+  <button onClick="operar('/')" 
+id="bntdivisao">
+/
+</button>
+
+  <button onClick="operar('*')" 
+id="bntmultiplicacao">
+*</button>
+    
+</div>
+  
+<div class="botoes_gerais"> 
+<button onClick="operar('limpar')">limpar</button>
+
+<button onClick="operar('zerar')">zerar</button>
+
+<button onClick="operar('trocar')">trocar</button>
+</div>
+   
+<div class="botoes_historico">
+    <button onClick="anterior()">Anterior</button>
+    
+     <button onClick="ver_historico()">Histórico</button>
+    
+     <button onClick="limpar_historico()">Limpar Histórico</button> 
+</div>
+  
+</div>
+
+<div id="resultado_historico">
+</div>
+  
+  
+
+    <script  src="./script.js"></script>
+
+
+
+
+</body>
+
+</html>

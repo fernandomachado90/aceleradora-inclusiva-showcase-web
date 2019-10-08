@@ -1,0 +1,33 @@
+body {
+  font-family: 'Open Sans';
+  text-aling: justify;
+  margin: auto 20%
+}
+
+h1{
+  color:#EE964B;
+  text-align: center;
+}
+
+h2{
+  color:#28AFB0;
+  text-align: center;
+}
+
+textarea {
+  width: 99.1%;
+  margin-top:15px;
+}
+ 
+#Assunto {
+width:29%;  
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.imagem-PUC{
+ width:400px; 
+}
+
+

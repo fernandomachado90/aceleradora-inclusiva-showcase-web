@@ -48,7 +48,7 @@
       {"name":"Bem-vindos à Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em cinco páginas idealizadas pela turma",
-				"picture":"images/lampada.jpg",
+				"picture":"images/shapes.jpg",
 				"pages":[
           {
             "name": "Apresentação",
@@ -103,7 +103,7 @@
       {"name":"Quem Sou Eu",
         "path":"quem-sou-eu",
 				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
-				"picture":"images/board.jpg",
+				"picture":"images/letras.jpg",
 				"pages":[
           {
             "name": "Adrio",
@@ -222,6 +222,234 @@
           {
             "name": "Depoimentos",
             "path": "depoimentos"
+          }
+        ]
+      }
+		]
+  },
+  {"name":"Turma 03",
+		"path":"t03",
+		"projects":[
+      {"name":"Quem Sou Eu",
+        "path":"quem-sou-eu",
+				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
+				"picture":"images/candy.jpg",
+				"pages":[
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Arlanda",
+            "path": "arlanda"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Meylin",
+            "path": "meylin"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          },
+          {
+            "name": "Rayana",
+            "path": "rayana"
+          }
+        ]
+      },
+      {"name":"Questionário",
+        "path":"questionario",
+				"description":"Responda às perguntas dos estudantes em formulários construídos com HTML",
+				"picture":"images/caderno.jpg",
+				"pages":[
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          }
+        ]
+      },
+      {"name":"E-Zine Social",
+        "path":"e-zine",
+				"description":"Aprenda sobre assuntos sociais e curiosidades em páginas criadas pela turma",
+				"picture":"images/folhas.jpg",
+				"pages":[
+          {
+            "name": "Aborto",
+            "path": "aborto"
+          },
+          {
+            "name": "Deep Web",
+            "path": "deep-web"
+          },
+          {
+            "name": "Direitos do Adolescente",
+            "path": "direitos-do-adolescente"
+          },
+          {
+            "name": "Drogas",
+            "path": "drogas"
+          },
+          {
+            "name": "Hype",
+            "path": "hype"
+          },
+          {
+            "name": "Intolerância Religiosa",
+            "path": "intolerancia-religiosa"
+          },
+          {
+            "name": "Júpiter",
+            "path": "jupiter"
+          },
+          {
+            "name": "LGBT",
+            "path": "lgbt"
+          },
+          {
+            "name": "Parada LGBT e Homofobia",
+            "path": "lgbt-parada-homofobia"
+          }
+        ]
+      },
+      {"name":"Calculadora",
+        "path":"calculadora",
+				"description":"Faça suas contas usando as calculadoras construídas com Javascript",
+				"picture":"images/abacus.jpg",
+				"pages":[
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          },
+          {
+            "name": "Rayana",
+            "path": "rayana"
+          }
+        ]
+      },
+      {"name":"Bem-vindos à Aceleradora",
+        "path":"bem-vindos",
+				"description":"Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
+				"picture":"images/enter.jpg",
+				"pages":[
+          {
+            "name": "Introdução",
+            "path": "introducao"
+          },
+          {
+            "name": "Conteúdo Técnico",
+            "path": "aulas-tecnicas"
+          },
+          {
+            "name": "Temas Sociais",
+            "path": "aulas-especiais"
+          },
+          {
+            "name": "Quem fez parte",
+            "path": "turma"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          },
+          {
+            "name": "Contato",
+            "path": "contato"
           }
         ]
       }

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora oficial</title>
+  <link href="https://fonts.googleapis.com/css?family=Courgette&display=swap" rel="stylesheet">
+  
+  
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <Body>
+<b>Número 1:</B><input id="valor_1" type="number" class="entrada"/><BR>
+<b>Número 2:</B><input id="valor_2" type="number" class = "entrada" />
+<input id="naturais" type="checkbox"/>
+
+<button onClick= "operacao('+')"
+        id="btn_soma" >+ </button>
+
+<button onClick= "operacao('-')"
+        id="btn_subtrair">-</button>
+
+<button onClick= "operacao('*')"
+       id="btn_multiplicar" >*</button>
+
+<button onClick= "operacao('/')"
+        id="btn_dividir" >/</button></BR>
+
+  <b>Resultado:</B><input id = "resultado" disabled class="entrada"></br>
+
+<br>
+  <button type="button" onClick="Trocar()">Trocar</button>
+  <button type="button" onClick="Zerar()">Zerar</button>
+  <button type="button" onClick="Limpar()">Limpar</button>
+  <button type="button" onClick="anterior()">Anterior</button>
+  <button type="button" onClick="ver_historico()">Ver historico</button>
+  <button type="button" onClick="limpar_historico()">Limpar historico</button>
+    
+ </body>
+  
+  
+
+    <script  src="./script.js"></script>
+
+
+
+
+</body>
+
+</html>

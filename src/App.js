@@ -110,8 +110,8 @@ const Header = () => {
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
-        Entendemos que, para construir um <b>futuro tecnológico</b> mais justo para e mudar a cara da área de tecnologia, 
-        nós precisamos voltar nossos olhares para quem irá, de fato, protagonizar este futuro. 
+        Para construir um <b>futuro tecnológico</b> mais justo para e mudar a cara da área de tecnologia, 
+        nós precisamos voltar nossos olhares para quem irá, de fato, <b>protagonizar</b> este futuro. 
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
