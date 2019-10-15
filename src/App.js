@@ -100,13 +100,14 @@ const Header = () => {
         a <b><Link href="http://www.pucrs.br/" target="_blank">PUCRS</Link></b>, 
         e o <b><Link href="http://www.centrodeinovacao.org.br/" target="_blank">Centro de Inovação</Link></b>, 
         com o objetivo de facilitar o acesso de pessoas em 
-        situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de <b>lógica de programação</b>.
+        situação de vulnerabilidade socioeconômica à área de tecnologia através do ensino de <b>lógica de programação</b>
+        e tecnologias para a construção de <b>páginas web</b>.
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
         Além de um empoderamento técnico, também desenvolvemos as <b>habilidades interpessoais</b> dos alunos, 
         trazendo para o dia-a-dia da classe atividades que envolvem trabalho em equipe, autonomia, 
-        resolução de problemas e temas do pilar de <b>justiça econômica e social</b> da <b>ThoughtWorks</b>.
+        resolução de problemas e assuntos do pilar de <b>justiça econômica e social</b> da <b>ThoughtWorks</b>.
       </Typography>
 
       <Typography variant="body1" color="textSecondary"> 
@@ -116,9 +117,9 @@ const Header = () => {
 
       <Typography variant="body1" color="textSecondary"> 
         Nossa missão é <b>"melhorar a humanidade através do software e gerar um ecossistema 
-        socialmente responsável e economicamente justo"</b> e, para isso, 
-        estamos trabalhando coletivamente para empoderar, capacitar 
-        e diminuir as distâncias entre <b>o povo e a tecnologia</b>.
+        socialmente responsável e economicamente justo"</b> e, para isso, é necessário
+        promover um empoderamento tecnologico par diminuir as distâncias que existem 
+        entre quem vai produzir e quem vai consumir a tecnologia.
       </Typography>
 
     </header>
