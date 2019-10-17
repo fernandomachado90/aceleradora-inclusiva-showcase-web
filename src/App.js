@@ -132,7 +132,7 @@ const Main = () => {
     <Typography className="Title" variant="h4" gutterBottom> 
       Projetos
     </Typography>
-    {json.map( (group, index) => (
+    {json.filter(group => !group.hidden).map( (group, index) => (
       <GroupPanel key={index} {...group} />
     ))}
   </main>
@@ -170,42 +170,5 @@ class App extends React.Component {
     );
   }
 }
-
-/*
-projects.js
-
-const Projects = (projects) => {
-  return (
-    <div className="projects">
-      {
-        projects.map((project, index) => (
-          <GroupPanel
-            key={index}
-            id={project.id}
-            title={project.title}
-          />
-        ))
-      }
-    </div>
-  )
-}
-
-projects-spec.js
-
-const aceleradora = {
-  id: '1',
-  title: 'meutitulo'
-}
-
-describe('Projects', () => {
-  it('renderiza projetos', () => {
-    const component = mount(<Projects projects={aceleradora} />)
-    expect(component.find('GrouPanel')).legth(1)
-    expect(component.find('GroupPannel').first())).to
-  })
-})
-
-rodar com enzyme?
-*/
 
 export default App;

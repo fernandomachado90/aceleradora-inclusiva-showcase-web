@@ -455,8 +455,8 @@
       }
 		]
   },
-  
   {"name":"Turma 04",
+    "hidden": true,
 		"path":"t04",
 		"projects":[
       {"name":"Quem Sou Eu",
