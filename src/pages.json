@@ -45,7 +45,7 @@
           }
         ]
       },
-      {"name":"Bem-vindos à Aceleradora",
+      {"name":"Entre na Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em cinco páginas idealizadas pela turma",
 				"picture":"images/shapes.jpg",
@@ -190,7 +190,7 @@
           }
         ]
       },
-      {"name":"Bem-vindos à Aceleradora",
+      {"name":"Entre na Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em sete páginas idealizadas pela classe",
 				"picture":"images/maos.jpg",
@@ -422,7 +422,7 @@
           }
         ]
       },
-      {"name":"Bem-vindos à Aceleradora",
+      {"name":"Entre na Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
 				"picture":"images/enter.jpg",
@@ -698,7 +698,7 @@
           }
         ]
       },
-      {"name":"Bem-vindos à Aceleradora",
+      {"name":"Entre na Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
 				"picture":"images/teclado.jpg",
