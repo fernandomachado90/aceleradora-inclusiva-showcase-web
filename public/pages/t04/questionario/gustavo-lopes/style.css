@@ -1,0 +1,24 @@
+body{
+  background-image: url("https://img.freepik.com/vecteurs-libre/design-fond-moderne-3d-bleu_53876-87397.jpg?size=626&ext=jpg");
+  
+}
+.formulario{
+  font-family: open sans condensed;
+  font-style: italic; 
+  text-align: center;
+  width: 500px;
+  height: 940px;
+  margin: 15px 350px;
+  border: groove  15px;
+  font-size: 115%;
+  border-radius: 22px;
+}
+.informacao{
+  width: 500px;
+  height: 60px;
+  background-color: #00c3ff;
+  border-radius: 22px;
+}
+.form{
+   border-radius: 10px;
+}

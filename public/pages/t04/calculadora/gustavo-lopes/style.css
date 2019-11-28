@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://miro.medium.com/max/13000/1*u6Zr7pCDQD1KbhPEeAodJQ.jpeg");
+    color: white;
+    font-family: calibri;
+    margin: 200px 385px;
+}
+.interface{
+    border-width:8px;  
+    border-style:ridge;
+    background-image: url("https://st2.depositphotos.com/3922907/11110/i/950/depositphotos_111106502-stock-photo-digital-numbers-in-blue-background.jpg");
+    width: 500px;
+    height: 795px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+}
+input{
+    border-radius: 22px;
+    height: 30px;
+}
+.botao{
+    background-color: rgba(168, 161, 161, 0.80);
+    font-weight: 690;
+}

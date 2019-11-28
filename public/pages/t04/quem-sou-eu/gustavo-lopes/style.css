@@ -1,0 +1,66 @@
+body{
+  background-image: url(https://cdn.mos.cms.futurecdn.net/LEkEkAKZQjXZkzadbHHsVj.jpg)
+    
+}
+h1{
+  font-family: calibri;
+  font-style: italic;
+  font-size: 400%;
+  text-align: center;
+}
+img{
+  width: 275px;
+  float: left;
+  margin-right: 4px;
+}
+.descricao{ 
+  background-color: black;
+  border: 3px;
+  width: 366px;
+  height: 100px;
+  font-family: open sans condensed;
+  font-style: italic;
+  font-size: 20px;
+  float: left;  
+  border-style: outset;
+  color: white;
+}
+.pagina{
+  margin: 13px 300px;
+  width: 900px;
+}
+.lista{
+  background-color: black;
+  border: 3px;
+  width: 366px;
+  height: auto;
+  font-family: open sans condensed;
+  font-style: italic;
+  font-size: 15px;
+  float: left;  
+  border-style: outset;
+  color: white;
+  border-radius: 22px;
+}
+.titulo{
+   background-color: white;
+   width: 650px;
+  border-radius: 22px;
+}
+table, tr, th, td{
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  border-radius: 7px;
+}
+td{
+  font-size: 20px
+}
+h3{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+.descricao{
+  border-radius: 22px;
+}

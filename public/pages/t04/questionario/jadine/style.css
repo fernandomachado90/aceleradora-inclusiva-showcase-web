@@ -1,0 +1,22 @@
+body{
+   background-color:;
+  color:#214d5e;
+  background-image:url("https://ak1.picdn.net/shutterstock/videos/28159981/thumb/1.jpg");
+   background-size:30%;
+  
+}
+
+form{
+  text-align:center;
+}
+
+.caixa1{
+  background-color:#bfc5e0;
+  color:#1b2529;
+  border:18px outset #182f38;
+  margin:48px 200px
+}
+.Letra  {
+  
+  font-family:'Libre Franklin', sans-serif;
+}

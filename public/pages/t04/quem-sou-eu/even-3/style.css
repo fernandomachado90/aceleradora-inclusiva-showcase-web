@@ -1,0 +1,22 @@
+#gatinha{
+  background-color: #00FFFF;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+  border-style: dashed; 
+  border-width: thick;
+font-family: 'Mansalva', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Dancing Script', cursive;
+  font-family: 'Shadows Into Light', cursive
+}
+#tenis{
+ background-color: red;
+ border-style: dashed; 
+ border-width: thick;
+ padding-top: 50px;
+ padding-right: 50px;
+ padding-bottom: 50px;
+ font-family: 'Lobster', cursive;
+}

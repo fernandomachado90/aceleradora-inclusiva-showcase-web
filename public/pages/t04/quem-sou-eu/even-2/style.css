@@ -1,0 +1,16 @@
+th{
+ border: 4px solid;
+ background-color: green;
+ font-size: 19px;
+ border-style: double
+}
+
+td{
+  border: 3px solid;
+  background-color: red;
+  font-size: 17px;
+  
+}
+table{
+  
+}

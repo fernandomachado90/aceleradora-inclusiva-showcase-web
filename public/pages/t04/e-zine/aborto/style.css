@@ -1,0 +1,48 @@
+body
+{
+  background-image: url("https://i.pinimg.com/564x/78/39/79/783979113dee283a4729bfd7ab0e2923.jpg");
+  margin: 15px 300px;
+}
+.titulo{
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-style: italic; 
+  text-align: center;
+  font-size: 38px;
+  width: 900px;
+  height: 250px;
+  border: groove  15px;
+  background-image: url("")
+}
+.texto{
+  font-size:20px;
+  font-family: sans-serif;
+}
+.dado1{
+  float: right;
+}
+.continuacao{
+  float: left;
+  width:440px;
+  height:200px;
+}
+.continuacao2{
+  width: 900px;
+  height: 250px; 
+}
+.dado3{
+ position: absolute;
+  right: 2px;
+  width: 485px;
+  height: 120px;
+}
+.continuacao4{
+  float: left up;
+  text-align: left;
+}
+.conclusao{
+  text-align: center;
+  width: 900px;
+  height: 225px;
+  font-size: 35px;
+}

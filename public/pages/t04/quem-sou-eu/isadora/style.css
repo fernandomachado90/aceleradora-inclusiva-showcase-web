@@ -1,0 +1,57 @@
+body{
+  background-image: url("https://static.imagemwhats.com.br/content/assetz/uploads/2017/04/1890-papel-de-parede-para-whatsapp-android-iphone.jpg");
+  font-family: 'Roboto Slab', serif;
+}
+
+header {
+  height: 70px;
+  background: #7d147a;
+  margin: 50px;
+  padding-top: 50px;
+  border: 1px solid;
+}
+
+.titulo-da-pagina{
+  margin: 0 auto;
+  width: 250px;
+  color: #1a010f;
+  
+}
+
+.conteudo{
+  border: 1px solid;
+  text-align: center;
+  padding: 25px;
+background-color:#c593ed;
+  
+}
+
+.qua{
+  border: 1px solid;
+  text-align: center;
+  padding: 25px;
+background-color:#e697e3;
+}
+.tt{
+  border: 1px solid;
+  text-align: center;
+  padding: 25px;
+background-color:#c74ec3;
+  
+}
+ul {
+  list-style-position: inside;
+}
+table{
+  background-color:#c593ed;
+  float: center;
+  margin: auto;}
+
+  td{
+  border: 2px dashed #672e94;
+  color: #7d218a;
+  
+}
+.is{
+  background-color: #91579c;
+}

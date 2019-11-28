@@ -1,0 +1,19 @@
+* {
+  font-family: "Open Sans"
+}
+
+body{
+  text-align:center;
+  width: 500px;
+  margin: 12px auto;
+  background-image:url("https://data.whicdn.com/images/324631138/original.jpg");
+  background-size:50%;
+  background-repeat: no repeat;
+}
+
+.calculadora {
+  border: 2px dashed black;
+  background-color: #dbabc1;
+  border-radius: 10px;
+  padding: 10px;
+}

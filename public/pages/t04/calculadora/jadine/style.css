@@ -1,0 +1,32 @@
+body{
+  text-align:center;
+  margin-left:390px;
+  margin-right:390px;
+  background-image:url("https://mocah.org/uploads/posts/106197-abstract-polygon-4k-5k-iphone-wallpaper-android-wallpaper-orange-red.jpg");
+background-size:100%;
+background-repeat:no repeat;  
+}
+.texto1{
+  font-family:monospace;
+  font-size:14px;
+  color:#1d3036;
+  height:190px;
+  text-align:center;
+  border:10px outset #1d3036;
+  background-color:  #ffda45; 
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTip6dBbSDXBDEwH5lh1lhAAQRqccz-vcEdvxC44cfxCFEbHXiZ" );
+  background-size:100%;
+  background-repeat:no repeat;  
+  
+}
+.button{
+  width:100px;
+  height:42px;
+  background-color: #fa6e8f; 
+}
+
+.p{
+  font-family:monospace;
+  color:white;
+  font-size:14px;
+}

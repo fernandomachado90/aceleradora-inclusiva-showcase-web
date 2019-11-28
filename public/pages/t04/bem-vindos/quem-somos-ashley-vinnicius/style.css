@@ -1,0 +1,25 @@
+body{
+   background-image: url("https://i.pinimg.com/564x/42/84/49/4284492751cb8b4f673e9c399252efb4.jpg");
+  justify-content: center;
+  
+}
+.lista{
+  font-size:25px;
+}
+
+ul {
+    width: 20%;
+    margin: auto;
+}
+.lista_p{
+  font-size:25px;
+}
+
+ul {
+    width: 20%;
+    margin: auto;
+}
+img{
+   width: 30px;
+  height: 30px;
+}

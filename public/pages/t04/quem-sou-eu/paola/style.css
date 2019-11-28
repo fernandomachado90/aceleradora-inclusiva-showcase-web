@@ -1,0 +1,47 @@
+h1{
+  text-align:center;
+  color:black;
+  width:100%;
+}
+.pagina{
+  background-color:#FFC0CB;
+  border:5px dashed black;
+  margin:12px
+  }
+.foto-de-perfil{
+ 
+     width:300px;
+   margin-left:auto;
+  margin-right:auto;
+  }
+  
+#minhafoto{
+   width:300px;
+border:20px double black;
+   }
+p{
+  font-size:25px;
+  text-align:center;
+  color:#8B008B
+}
+.minhas-qualidades{
+  background-color:#f7cbf2;
+  margin-left:auto;
+  margin-right:auto;
+  border:10px ridge black;
+  width:500px;
+  
+}
+h2{
+   text-align:center;
+}
+table{
+  margin-left:auto;
+  margin-right:auto;
+  font-size:25px;
+  margin-top:30px;
+   
+}
+tr,th,td{
+  border:3px solid black;
+}

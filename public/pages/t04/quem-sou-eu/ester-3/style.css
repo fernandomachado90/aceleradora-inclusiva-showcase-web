@@ -1,0 +1,32 @@
+body{background-color: #79f7eb;
+  font-family: Times New Roman;
+ }
+
+
+h1{background-color:white;
+text-align:center;
+border-style:dotted;
+}
+
+
+ol{font-size: 25px;
+ background-image:
+url("https://d701vexhkz032.cloudfront.net/media/images/menu-content/BR/sanduiches-de-frango-e-peixe/fish_new.png");
+}
+
+img{width:300px;
+height: 200px;}
+
+.div{font-size: 25px;
+background-color:#3ac2b6;
+  border-style:dotted;
+}
+
+.diV{font-size: 25px;
+background-color:#3da198;
+border-style:dotted;
+}
+
+.iMg{
+width:300px;
+height: 200px;}

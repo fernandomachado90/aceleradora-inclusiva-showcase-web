@@ -1,0 +1,65 @@
+body{
+ margin-top:40px;
+ margin-left:115px;
+ margin-right:115px;
+ margin-bottom:50px;
+ background-color:#5196c4;
+ background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUybZg_kYyeOCvMFQDkjSlPFeZjcjhBi0mJ2PBB-dhHj_rAAR")  
+  
+   
+}
+
+
+.inicio{
+  text-align:center;
+  background-color:#62a7c4;
+  padding-top:10px;
+  font-size:120%;
+  padding-bottom:15px;
+  font-family:'Hind', sans-serif;
+  border-style:double
+
+}
+
+p{
+  font-size:130%;
+}
+
+.pt{
+  text-align:center;
+  background-color:#e3a436;
+  padding-bottom:35px;
+  padding-top:10px;
+  border-style:double;
+  
+}
+
+.table{
+  padding-left:315px;
+  font-size:150% 
+}
+
+th{
+  border-style:solid;
+  border-width:2px;
+  border-color:#734901;
+}
+td{
+  border-style:solid;
+  border-width:2px;
+  border-color:#734901;
+}
+
+.film{
+  text-align:center;
+  background-color:green;
+  padding-top:15px;
+  padding-bottom:20px;
+  border-style:double;
+}
+
+.tabli{
+  padding-left:20px;
+  font-size:120%
+  
+}

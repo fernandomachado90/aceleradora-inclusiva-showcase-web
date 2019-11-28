@@ -1,0 +1,47 @@
+p{
+   font-style: oblique;
+}
+
+h1{
+  font-family:"Times New Roman", Times, serif;
+}
+
+body {
+  font-size: 150%;
+  background-color: #5c2c29;
+  text-align: center;
+  text-color:#5c2c29;
+  font-style: italic;
+  margin:12px 300px;
+  margin-left:220px;
+   margin-right:220px;
+ background-image:url("https://site-amb-s3.clubedaana.com.br/prod/imagens/biblioteca/luzes-de-natal.gif" );
+  background-size:120%;
+  background-repeat:no repeat;
+}
+
+.n1{
+background-color:#f2e5d0;
+  color:#5c2c29;
+  border:18px outset #522825;
+}
+
+.n2{
+background-color:#bfc5e0;
+  color:#5c2c29;
+  border:18px outset #522825;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+td{
+  border: double;
+}
+
+.cor2{
+  background-color: #e0c4ba;
+  
+}

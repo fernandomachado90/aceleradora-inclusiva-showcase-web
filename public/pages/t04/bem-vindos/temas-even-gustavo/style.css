@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://i.pinimg.com/474x/42/84/49/4284492751cb8b4f673e9c399252efb4.jpg");
+    margin: 70px 130px;
+    text-align: center;
+}
+.temas{
+    border-style:ridge;
+    border-width:8px; 
+    border-radius:25px; 
+    text-align: center;
+    width: 1000px;
+    height: auto;
+    position: center;
+    background-color: rgba(255, 255, 255, 0.500);
+    font-family: Arial;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    font-family: Arial;
+    font-size: 25px;
+    text-align: justify;
+    text-justify: inter-word
+}
+.img{
+    border-radius:25px;
+}
+.botao{
+    background-color: rgba(255, 255, 255, 0.550);
+    font-size:12px;
+    border-radius: 25px;
+    width: 180px;
+    height: 50px;
+    float: right;
+}

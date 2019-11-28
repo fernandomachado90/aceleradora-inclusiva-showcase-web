@@ -1,0 +1,27 @@
+h1{
+   font-size: 150%;
+  color: #4B0082;
+  text-decoration: underline;
+  font-style: oblique;
+  font-family: "helvetica";
+  text-align: center;
+}
+
+
+p{
+   font-size: 150%;
+  color: green;
+  text-decoration: underline;
+  font-style: oblique;
+  font-family: "helvetica";
+  text-align: center;
+}
+
+
+body{
+  background-color: #ffa07a;
+  background-image:
+ url(https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2010/09/formacao_1600x1200-o-universo-pode-ter-sido-criado-sem-deus.jpg ); 
+  
+  
+}

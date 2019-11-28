@@ -456,41 +456,76 @@
 		]
   },
   {"name":"Turma 04",
-    "hidden": true,
 		"path":"t04",
 		"projects":[
       {"name":"Quem Sou Eu",
         "path":"quem-sou-eu",
 				"description":"Conheça as páginas de perfil construídas por nossas estudantes",
-				"picture":"images/candy.jpg",
+				"picture":"images/tenis.jpg",
 				"pages":[
           {
-            "name": "Ashley",
+            "name": "Ashley (1)",
             "path": "ashley"
           },
           {
-            "name": "daniele",
-            "path": "daniele"
+            "name": "Ashley (2)",
+            "path": "ashley-2"
           },
           {
-            "name": "Dhienifer",
+            "name": "Danielle",
+            "path": "danielle"
+          },
+          {
+            "name": "Dhienifer (1)",
             "path": "dhienifer"
           },
           {
-            "name": "Ester",
+            "name": "Dhienifer (2)",
+            "path": "dhienifer-2"
+          },
+          {
+            "name": "Dhienifer (3)",
+            "path": "dhienifer-3"
+          },
+          {
+            "name": "Ester (1)",
             "path": "ester"
           },
           {
-            "name": "Éven",
+            "name": "Ester (2)",
+            "path": "ester-2"
+          },
+          {
+            "name": "Ester (3)",
+            "path": "ester-3"
+          },
+          {
+            "name": "Ester (4)",
+            "path": "ester-4"
+          },
+          {
+            "name": "Éven (1)",
             "path": "even"
           },
           {
-            "name": "Gustavo Brandão",
+            "name": "Éven (2)",
+            "path": "even-2"
+          },
+          {
+            "name": "Éven (3)",
+            "path": "even-3"
+          },
+          {
+            "name": "Gustavo B. (1)",
             "path": "gustavo-brandao"
           },
           {
-            "name": "Gustavo Machado",
-            "path": "gustavo-machado"
+            "name": "Gustavo B. (2)",
+            "path": "gustavo-brandao-2"
+          },
+          {
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
           },
           {
             "name": "Isadora",
@@ -505,8 +540,12 @@
             "path": "jhuan"
           },
           {
-            "name": "Paola",
+            "name": "Paola (1)",
             "path": "paola"
+          },
+          {
+            "name": "Paola (2)",
+            "path": "paola-2"
           },
           {
             "name": "vinnicius",
@@ -517,19 +556,15 @@
       {"name":"Questionário",
         "path":"questionario",
 				"description":"Responda às perguntas dos estudantes em formulários construídos com HTML",
-				"picture":"images/caderno.jpg",
+				"picture":"images/diario.jpg",
 				"pages":[
           {
             "name": "Ashley",
             "path": "ashley"
           },
           {
-            "name": "daniele",
-            "path": "daniele"
-          },
-          {
-            "name": "Dhienifer",
-            "path": "dhienifer"
+            "name": "Danielle",
+            "path": "danielle"
           },
           {
             "name": "Ester",
@@ -540,12 +575,12 @@
             "path": "even"
           },
           {
-            "name": "Gustavo Brandão",
+            "name": "Gustavo B.",
             "path": "gustavo-brandao"
           },
           {
-            "name": "Gustavo Machado",
-            "path": "gustavo-machado"
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
           },
           {
             "name": "Isadora",
@@ -560,82 +595,70 @@
             "path": "jhuan"
           },
           {
-            "name": "Paola",
-            "path": "paola"
-          },
-          {
             "name": "vinnicius",
             "path": "vinnicius"
+          },
+          {
+            "name": "Signos (1)",
+            "path": "ashley-jadine-signos"
+          },
+          {
+            "name": "Signos (2)",
+            "path": "danielle-dhienifer-signos"
           }
         ]
       },
       {"name":"E-Zine Social",
         "path":"e-zine",
 				"description":"Aprenda sobre assuntos sociais e curiosidades em páginas criadas pela turma",
-				"picture":"images/folhas.jpg",
+				"picture":"images/girassol.jpg",
 				"pages":[
           {
-            "name": "Ashley",
-            "path": "ashley"
+            "name": "Aborto",
+            "path": "aborto"
           },
           {
-            "name": "daniele",
-            "path": "daniele"
+            "name": "Assédio (1)",
+            "path": "assedio"
           },
           {
-            "name": "Dhienifer",
-            "path": "dhienifer"
+            "name": "Assédio (2)",
+            "path": "assedio-2"
           },
           {
-            "name": "Ester",
-            "path": "ester"
+            "name": "Defesa dos Animais",
+            "path": "pets"
           },
           {
-            "name": "Éven",
-            "path": "even"
+            "name": "LGBTQIAP+",
+            "path": "lgbtqiap"
           },
           {
-            "name": "Gustavo Brandão",
-            "path": "gustavo-brandao"
+            "name": "Machismo",
+            "path": "machismo"
           },
           {
-            "name": "Gustavo Machado",
-            "path": "gustavo-machado"
+            "name": "Síndrome do Impostor",
+            "path": "impostor"
           },
           {
-            "name": "Isadora",
-            "path": "isadora"
-          },
-          {
-            "name": "Jadine",
-            "path": "jadine"
-          },
-          {
-            "name": "Jhuan",
-            "path": "jhuan"
-          },
-          {
-            "name": "Paola",
-            "path": "paola"
-          },
-          {
-            "name": "vinnicius",
-            "path": "vinnicius"
+            "name": "Tráfico de Drogas",
+            "path": "drogas"
           }
         ]
       },
       {"name":"Calculadora",
         "path":"calculadora",
 				"description":"Faça suas contas usando as calculadoras construídas com Javascript",
-				"picture":"images/abacus.jpg",
+				"picture":"images/numeros.jpg",
 				"pages":[
           {
             "name": "Ashley",
             "path": "ashley"
           },
           {
-            "name": "daniele",
-            "path": "daniele"
+            "name": "Danielle",
+            "path": "danielle"
           },
           {
             "name": "Dhienifer",
@@ -650,12 +673,12 @@
             "path": "even"
           },
           {
-            "name": "Gustavo Brandão",
+            "name": "Gustavo B.",
             "path": "gustavo-brandao"
           },
           {
-            "name": "Gustavo Machado",
-            "path": "gustavo-machado"
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
           },
           {
             "name": "Isadora",
@@ -668,10 +691,6 @@
           {
             "name": "Jhuan",
             "path": "jhuan"
-          },
-          {
-            "name": "Paola",
-            "path": "paola"
           },
           {
             "name": "vinnicius",
@@ -682,31 +701,27 @@
       {"name":"Bem-vindos à Aceleradora",
         "path":"bem-vindos",
 				"description":"Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
-				"picture":"images/enter.jpg",
+				"picture":"images/teclado.jpg",
 				"pages":[
           {
-            "name": "Introdução",
-            "path": "introducao"
+            "name": "Apresentação",
+            "path": "apresentacao-danielle-jadine-paola"
           },
           {
-            "name": "Conteúdo Técnico",
-            "path": "aulas-tecnicas"
+            "name": "Temas Sociais e Técnicos",
+            "path": "temas-even-gustavo"
           },
           {
-            "name": "Temas Sociais",
-            "path": "aulas-especiais"
+            "name": "Inscrições",
+            "path": "inscricao-dhienifer-gustavo-jhuan"
           },
           {
-            "name": "Quem fez parte",
-            "path": "turma"
+            "name": "Quem somos",
+            "path": "quem-somos-ashley-vinnicius"
           },
           {
             "name": "Depoimentos",
-            "path": "depoimentos"
-          },
-          {
-            "name": "Contato",
-            "path": "contato"
+            "path": "depoimentos-ester-isadora"
           }
         ]
       }

@@ -1,0 +1,14 @@
+div{
+text-align:center;
+}
+body{
+ border:8px inset White;
+  background-image:       url("https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_de_Ass%C3%A9dio.jpg");
+  font-size:21px;
+  color:White;
+  border-style:double;
+  margin: 20px;
+}
+.A-no-Trabalho{
+  color:#20B2AA;
+}

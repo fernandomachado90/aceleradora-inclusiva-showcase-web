@@ -1,0 +1,37 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBMqpPTS8kp-1r5z1Lt0BU3b8nd_EpxQ9j3phgz_RiS6_Kts9c1Q")
+  
+}
+
+
+header{
+  height: 70px;
+  background:#a10e0e;
+  margin: 50px;
+  padding-top: 50px;
+  border: 1px solid;
+}
+
+.op{
+  background-color:#d44848;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.ass{
+  margin: 0 auto;
+  width: 250px;
+  color: #1a010f;
+  font-size: 250%;
+  
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.image{
+  background-color: #db2a37;
+}
+.cam{
+  color: #8f1b5d;
+  
+}

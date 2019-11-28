@@ -1,0 +1,19 @@
+form{
+  font-family: 'open sans'; 
+  background-color: #09ACDB   ;
+  border: double 10px ;
+  margin: 30px 450px;
+  padding: 40px;
+  color: black;
+  text-font: Trebuchet MS, sans-serif;
+  height:350px;
+  text-align: center;
+ 
+}
+.centro{
+  text-align:center;
+}
+body{
+background-color: pink;
+   background-image: url(https://i2.wp.com/julianainfurna.com/wp-content/uploads/2017/10/Untitled-design-2.png?fit=1024%2C768);
+}

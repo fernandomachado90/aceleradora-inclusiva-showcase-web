@@ -1,0 +1,31 @@
+body{
+  background-image: url("https://media3.giphy.com/media/Amcr0VauKR7a/giphy.gif");
+}
+.a{
+  background-color:pink;
+  margin: 10px 70px;
+  text-align:center;
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+font-family: 'Caveat', cursive;
+}
+.b{
+  background-color:#bc67f5;
+  margin: 10px 70px;
+}
+ul{
+  margin: 0 auto;
+  width:300px;
+}
+.c{
+  background-color:#e642f5;
+  margin: 10px 70px;
+  text-align:center;
+}
+th{
+ border:2px solid purple;
+  background-color:#bc60c4;
+}
+td{
+  border:2px solid purple;
+  background-color:pink;
+}

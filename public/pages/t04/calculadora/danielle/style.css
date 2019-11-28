@@ -1,0 +1,25 @@
+body{
+  text-align:center;
+  border:ridge white 20px;
+  margin:10px 450px;
+  margin-left: 120px;
+  margin-right:120px;
+  background-image:url("https://cdn6.aptoide.com/imgs/e/7/e/e7e3e959bc7ce64565ed9659a13ba7c0_screen.png?h=464");
+  background-repeat: yes-repeat;
+  
+}
+
+h1{
+font-family: 'Anton', sans-serif;
+  color:#95a198;
+}
+.botaozinho{
+  text-align:center;
+}
+h4{
+  color:#95a198;
+  font-size:30px;
+}
+input{
+  height: 25px
+}

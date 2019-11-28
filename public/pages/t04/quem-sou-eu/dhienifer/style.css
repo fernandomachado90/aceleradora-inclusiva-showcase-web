@@ -1,0 +1,38 @@
+body{
+  background-image:
+   url(http://pm1.narvii.com/6537/6861a05ef60607b94c15b9aa0407b456716ee4b5_00.jpg)
+}
+
+div{
+  background-color:#f5bce3;
+  text-align:center;
+  font-family: 'Raleway', sans-serif
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+  margin: 12px 30px;
+}
+.conteudo{
+  width:720px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.quemsoueu{
+  padding:6px;
+} 
+
+hr {
+  border:1px dashed black;
+}
+
+.minhasqualidades{
+  background-color:#f08db6;
+  padding:6px
+}
+
+.serie{
+  width:640px
+}

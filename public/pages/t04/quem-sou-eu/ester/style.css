@@ -1,0 +1,26 @@
+body
+{text-align:center; 
+background-image: url("https://www.ideiasdecor.com/wp-content/uploads/2018/06/rose-quartz.jpg");}
+
+h1
+{font-size: 55px}
+
+img
+{height: 300px;}
+
+h2
+{font-size: 30px}
+
+li
+{font-size: 30px;} 
+
+p{
+  juts-justified
+  font-size: 30px
+}
+
+h3
+{
+ font-size:30px;
+ text-align:justfy;
+}

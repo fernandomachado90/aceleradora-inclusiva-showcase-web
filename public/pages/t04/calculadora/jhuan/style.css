@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background-color: #222c80;
+  font-size:20px;
+  background-image:url(https://wallpaperlayer.com/img/2015/9/blue-wallpaper-2137-2293-hd-wallpapers.jpg)
+  
+}
+
+.calculadora{
+  background-color: #528da3;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-top:10px;
+  padding-bottom:40px;
+  margin-top:60px;
+  border-style:ridge;
+  border-color:#6ea;
+}

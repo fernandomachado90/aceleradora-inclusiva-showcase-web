@@ -1,0 +1,26 @@
+body{
+ text-align:center; 
+ border-style:solid;
+ margin-right:250px;
+ margin-left:250px;
+ margin-bottom:150mm;
+ background-color:#a1c2f7;
+}
+.cal{
+  font-style: oblique;
+  color:#c90000;
+  font-size:20px;
+}
+.botao1{
+   text-align:; 
+}  
+
+.k{
+ width:70px; 
+ height:60px; 
+ background-image:url(https://cdn.icon-icons.com/icons2/934/PNG/512/addition-sign_icon-icons.com_73100.png);
+}
+.j{
+ width:70px; 
+ height:60px; 
+}

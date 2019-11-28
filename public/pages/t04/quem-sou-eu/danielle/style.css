@@ -1,0 +1,48 @@
+body{
+ border:5px solid white; 
+  margin:10px 450px;
+  margin-left: 120px;
+  margin-right:120px;
+background-image:url("https://i.pinimg.com/originals/7f/78/d2/7f78d2fc95e6534091b52589025ef486.jpg");
+  background-repeat: yes repeat;
+}
+
+h1{
+  text-align:center;
+  font-family:'Mansalva', cursive;;
+}
+h2{
+  text-align:center;
+}
+ul{
+  font-size: 150%;   
+}
+ 
+.imagem{
+  background-color:#f0f030
+}
+
+.pagina{
+  background-color:#fae43c
+  
+}
+.letra {
+  font-family: 'Mansalva', cursive;
+}
+center{
+  background-color:#0e1012
+}
+.cores{
+  color: #fae019;
+  text-align:center;
+}
+td{
+ 
+  border:double;
+
+  
+}
+.tg{
+
+  background-color:#f5f545;
+}

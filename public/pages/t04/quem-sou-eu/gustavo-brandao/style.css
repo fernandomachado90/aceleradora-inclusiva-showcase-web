@@ -1,0 +1,40 @@
+.quem_sou_eu
+{
+   text-align:center;
+  font-size:60px;
+   background:#00b5ba;
+   margin-left:80px;
+   margin-right:80px;
+}
+.letras
+{
+ font-style: oblique;
+ font-size:30px;
+ color:#0300cc
+   
+}
+.lista
+{
+  background:#23e800;
+   margin-left:-0px;
+   margin-right:-0px;
+}
+
+ul{
+  text-align: left;
+  margin: 0px 350px;
+}
+li
+{
+  color:#173738;
+}
+lista2
+{
+   
+}
+
+th{
+  border-style:solid;
+  border-color:black;
+   
+}

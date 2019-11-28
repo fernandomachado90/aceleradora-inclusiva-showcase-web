@@ -1,0 +1,20 @@
+body{background-image:url("https://media.tenor.com/images/f4698806ab131f3c326c6fd1d6dfebc7/tenor.gif")}
+
+ th{
+  text-align: center;
+  background-color: #bfcce3;
+  border-style: dotted;
+}
+
+td{
+  display: table-cell;
+  background-color: #b5c9eb;
+}
+
+table{ 
+  width: 800px;
+  left:80px;
+  height:200px;
+  table-layout: fixed;
+  position: relative;
+}

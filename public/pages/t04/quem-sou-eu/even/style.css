@@ -1,0 +1,30 @@
+body{
+ background-image: url("https://i.pinimg.com/originals/02/4c/20/024c20d9f9fa5fc7b0f36af5db544e2d.gif")
+  
+}
+.pagina{
+  font-style: italic;
+  margin: 12px 400px;
+  padding: 50px;
+  background-image: url("https://i1.wp.com/emotioncard.com.br/wp-content/uploads/2018/12/bandeira-lgbt-wallpaper-celular13-1.jpg");
+  background-position: center;
+  background-size: cover;
+  border: double 8px
+  
+}
+.qualidades{
+  margin: 12px 400px;
+  background-image: url("https://image.winudf.com/v2/image1/Y29tLnRodW5rYWJsZS5hbmRyb2lkLmNhaW9fY2FybG9zcm95YWxlMS5zcXFxX3NjcmVlbl8wXzE1NjcxNjU1ODhfMDUy/screen-0.jpg?fakeurl=1&type=.jpg");
+  font-style: italic;
+  color: #D8BFD8;
+  background-position: center;
+  background-size: cover;
+  border: double 8px;
+  
+}
+table, tr, th, td{
+  background-color: black;
+  border:2px solid white;
+  color: white;
+  font-style: italic;
+}

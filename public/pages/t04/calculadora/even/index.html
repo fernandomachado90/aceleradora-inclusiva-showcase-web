@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>A Pen by  Éven</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<form>
+  <p>CALCULADORA</p>
+   <label>Numero A:</label>
+  <input type="text" id="a"/>
+  <br>
+  <br>
+  <label>Numero B:</label>
+  <input type="text" id="b"/>
+  <br>
+  <br>
+  <div class="centro">
+  <button type="button" onClick="pow()">Pow</button>
+  <br>
+  <br>
+  </div>
+    <label>Número para análise primos:</label>
+  <input type="text" id="c"/>
+   <button type="button" onClick="primo()">Primo</button>
+  <br>
+  <br>
+  <label>Número para fatoração:</label>
+  <input type="text" id="d">
+  <button type="button" onClick="fatorial()">Fator</button>
+  <br>
+  <br>
+   <button type="button" onClick="somar()">+</button> 
+   <button type="button" onClick="subtrair()">-</button>
+   <button type="button" onClick="multiplicar()">*</button>
+   <button type="button" onClick="divisao()">/</button>
+    <button type="button" onClick="mostrarHistorico()">Histórico</button>
+  
+   
+    </form>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

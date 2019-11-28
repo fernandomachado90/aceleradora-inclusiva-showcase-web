@@ -1,0 +1,24 @@
+form{
+ text-align:center; 
+  border-style:solid;
+  margin:10px 450px;
+  background-color:#5caff2
+
+  
+}
+
+h1{
+  text-align:center;
+  background-color:#3c6cf0
+
+}
+
+.letra{
+  font-family:'Ubuntu', sans-serif;
+}
+html{
+  background-image:url("https://steamuserimages-a.akamaihd.net/ugc/158028182092033739/59CA60267C9EF097829F8B6CFDED0CD489F0ECCE/")
+}
+.form{
+  font-family: 'Merriweather Sans', sans-serif;
+}

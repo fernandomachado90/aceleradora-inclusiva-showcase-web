@@ -1,0 +1,16 @@
+body{
+   font-family: 'Pacifico', cursive;
+   font-size: 150%;
+   color:purple;
+   font-style: italic;
+   background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/moana-tribal-background-6.jpg");
+  margin-left: 400px;
+  margin-top: 30px;
+  margin-right: 30px;
+  
+}
+.icone{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}

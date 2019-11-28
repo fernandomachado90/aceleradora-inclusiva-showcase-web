@@ -1,0 +1,32 @@
+body{
+  text-align:center;
+   margin:12px 300px;
+  margin-left:330px;
+   margin-right:330px;
+   background-image:url("https://i.pinimg.com/originals/0a/8d/14/0a8d14f8fe47cd18199c884817c9a858.jpg");
+background-size:100%;
+  background-repeat:no repeat;
+  color: white;
+}
+ 
+.janela{
+  font-family:"Times New Roman", Times, 
+   serif;
+  color:#1d3036;
+  height:250px;
+  text-align:center;
+  background-color:#edafc6;
+   border:10px outset  #281e3b; 
+}
+.button{
+  width:80px;
+  height:50px;
+  background-color: #fad7e0; 
+}
+
+.nomes{
+  
+
+  color:pink;
+  
+}

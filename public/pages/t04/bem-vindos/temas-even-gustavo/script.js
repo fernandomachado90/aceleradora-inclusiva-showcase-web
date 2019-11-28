@@ -1,0 +1,6 @@
+function resumo1() {
+    alert("ALGUNS DOS ASSUNTOS DISCUTIDOS EM AULA : \n ->HOMOFOBIA; \n ->A COMUNIDADE LGBTQIA+; \n ->RACISMO; \n ->EMPREENDEDORISMO; \n ->BULLYING; \n ->CYBERBULLYING \n ->SINDROME DO IMPOSTOR; \n ->ETC. ")
+}
+function resumo2(){
+    alert("OS ASSUNTOS TÉCNICOS VISTOS EM AULA: \n ->PORTUGOL; \n ->CSS; \n ->HTML; \n ->JAVASCRIPT.")
+}

@@ -1,0 +1,41 @@
+h1{
+  text-align:center;
+    background-color:#b69fbd;
+  font-size:30px;
+  font-family: 'Roboto Slab', serif;
+  
+}
+h2{
+  margin:100px;
+  border:solid;
+  font-size:30px;
+  background-color:#b0a8b3;
+  padding:8px;
+
+}
+.conto{
+  text-align:left;
+  margin:left 30px;
+ font-size:20px;
+  border:solid;
+  background-color:#b0a8b3
+ 
+}
+html{
+  background-image:url("https://s3.pixers.pics/pixers/700/FO/64/90/89/56/700_FO64908956_4b66652cc1cabf44d738d32907a628a4.jpg?fbclid=IwAR3Ho8gy4ts9uk4yX4ZVpK-62S6BwhcImkSNmZiurvm0_B0FfiG0ivhedSQ");
+}
+
+.dhomens{
+background-color:#f2e5d0;
+  border:18px groove #5e5661;
+  font-size: 20px;
+  font-style: arial; 
+}
+
+.dmulheres{
+background-color:#f2e5d0;
+  border:18px groove #5e5661;
+  font-size: 20px;
+  font-style: arial;
+    
+  }

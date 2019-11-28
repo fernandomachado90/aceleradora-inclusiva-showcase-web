@@ -1,0 +1,14 @@
+td{
+float:none;
+border:3px solid black;
+font-size:150%;
+}
+th{
+  
+  background-color:pink;
+  border:3px solid black;
+  font-size:150%;
+}
+table{
+  background-color:#BC8F8F;
+}

@@ -1,0 +1,12 @@
+body{
+  background-color:#bad5ff;
+  margin: 10px auto;
+  width: 500px;
+   background-image:url("http://s10.favim.com/orig/160612/ariana-grande-gif-let-me-love-you-Favim.com-4404295.gif");
+}
+.borda{
+  font-family:"Times New Roman", Times,serif;
+  color:#1d3036;
+  background-color:#edafc6;
+  border:8px outset #281e3b; 
+}

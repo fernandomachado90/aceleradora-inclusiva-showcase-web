@@ -1,0 +1,57 @@
+body
+{
+  text-align:center;
+  background-color:pink;
+}
+
+
+.tamanho{
+  height: 100px;
+}
+
+.lgbt
+{ background-:url("https://thumbs.gfycat.com/EminentMiserlyDunlin-size_restricted.gif");
+}
+
+.borda{
+border-style: ridge 40px;
+border-width:5px;}
+
+
+
+div{border-color:#d8f03e;
+   border-style:solid;
+   font-size:20px;  
+  }
+
+.vermelho{background-color:#f53b3b;}
+.laranja{background-color:#f29213;}
+.amarelo{background-color:#f7e62d;}
+.verde{background-color:#18db3f;}
+.azul{background-color:#188ddb;}
+.roxo{background-color:#5f47e6;}
+.rosa{background-color:#fa61e6;}
+
+
+h2{font-size:45px;}
+
+h1{font-size:50px;}
+
+
+p{font-size:30px;}
+
+
+img
+{
+   max-width:560px;
+    max-height:5000px;
+    width: auto;
+   height: auto;
+}
+
+.decorar
+{
+  background-color:black;
+   border-style:solid;
+   font-size:20px;
+ }

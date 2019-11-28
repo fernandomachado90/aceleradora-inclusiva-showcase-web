@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  font-size: 20px;
+  background-image:url(https://i.pinimg.com/474x/42/84/49/4284492751cb8b4f673e9c399252efb4.jpg);
+  
+}
+
+.inscricao{
+  margin-left:250px;
+  margin-right:250px;
+  margin-top:10px;
+  border-style:double;
+  font-family:calibri;
+  border-color:white;
+  padding-bottom:10px;
+ 
+}
+
+
+
+.texto{
+  font-size:26px;
+}
+
+.rer{
+  font-size:26px;
+}
+
+.botao{
+  margin-left:617px;  
+border-radius:8px; 
+}
+
+.clic{
+   margin-left:250px;
+  margin-right:250px;
+  margin-top:10px;
+  border-style:double;
+  font-family:calibri;
+  border-color:white;
+  padding-bottom:10px;
+  
+}
+
+.text{
+  font-size:26px;
+}
