@@ -726,5 +726,21 @@
         ]
       }
 		]
+  },
+  {"name":"Turma 06",
+		"path":"t06",
+		"projects":[
+      {"name":"Entre na Aceleradora",
+        "path":"bem-vindos",
+				"description":"Saiba mais sobre o projeto através do site feito de maneira conjunta e colaborativa entre as pessoas alunas da turma 6",
+				"picture":"images/akatsuki.jpg",
+				"pages":[
+          {
+            "name": "Apresentação",
+            "path": "apresentacao"
+          }
+        ]
+      }
+		]
   }
 ]
