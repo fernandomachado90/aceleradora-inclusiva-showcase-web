@@ -736,8 +736,8 @@
 				"picture":"images/akatsuki.jpg",
 				"pages":[
           {
-            "name": "Apresentação",
-            "path": "apresentacao"
+            "name": "bem-vindos",
+            "path": "bem-vindos"
           }
         ]
       }
